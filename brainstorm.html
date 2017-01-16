@@ -1,0 +1,118 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Brainstorm</title>
+	<link rel="stylesheet" type="text/css" href="write_up_style.css">
+</head>
+<body>
+	<h1>CSCI 3665: Interactive Data Visualization</h1>
+	<h2>Brainstorm & Implementation Path</h2>
+	<h3>Sophia Ardell</h3>
+	<h3>January 15, 2017</h3>
+	<h3>Project 1 Do-Over</h3>
+	<hr/>
+	
+	<h3>Data Description</h3>
+	<p>
+		<figure>
+		    <img src="./Graphics/wine_glasses.jpg" alight='Center' alt="wine_glasses" height = "275"/>
+		    <figcaption>Dataset: <a href="http://archive.ics.uci.edu/ml/datasets/Wine+Quality">Wine Quality</a> </figcaption>
+		</figure>
+		<ul>
+			<li>Dataset: <a href="http://archive.ics.uci.edu/ml/datasets/Wine+Quality">Wine Quality</a></li>
+			<li>There are two datasets of samples of different wines that each have been evaluated by multiple experts who gave the wine a "quality" score from 0 to 10. The datasets are separated by red and white wine.</li>
+			<li>There about 7000 samples total.</li>
+			<li> There are 12 attributes, including quality. They are:
+				<ul>
+					<li>fixed acidity </li>
+					<li>volatile acidity </li>
+					<li>citric acid </li>
+				   	<li>residual sugar </li>
+				   	<li>chlorides </li>
+				   	<li>free sulfur dioxide </li>
+				   	<li>total sulfur dioxide </li>
+				   	<li>density </li>
+				   	<li>pH </li>
+				   	<li>sulphates </li>
+				   	<li>alcohol </li>
+				   	<li>quality (score between 0 and 10)</li>
+				</ul>
+			</li>
+			<li>To be honest, I'm not sure what all of these attributes signify about wine, but I can definitely still visualize their characteristics.</li>
+		</ul>
+	</p>
+
+	<hr/>
+	
+	<h3>Brainstorm of questions</h3>
+	<p>
+		<ol>
+			<li>How do red and white wine compare over the attributes?</li>
+			<li>Which attribute has the best fit correlation with quality?</li>
+			<li>Which attribute has the worst fit correlation with quality?</li>
+			<li>Over the range of values of a given attribute, are the samples spread out evenly? (i.e. the pH is likely 4-7 for all wines, I am wondering if are there clusters at specific pH values, or is it an even density?)</li>
+			<li>Is there a way to look at the relationship with the average quality of each cluster while examining the last questions?</li>
+			<li>Based on approximately 3 attributes and a given sample from the dataset, I would want to find the other samples that most matched. I'm curious to see how the other attributes would compare. Would they be similar?</li>
+			<li>What is the relationship between the acid attributes and pH?</li>
+			<li>What is the relationship between pH and alcohol?</li>
+			<li>What is the relationship between residual sugar and alcohol?</li>
+			<li>What is the relationship between residual sugar and pH?</li>
+			<li>What is the relationship between pH and quality?</li>
+			<li>What is the relationship between alcohol and quality?</li>
+			<li>What is the easiest way to see the relationship between two attributes?</li>
+		</ol>
+	</p>
+
+	<hr/>
+	
+	<h3>Selected Questions and Designs</h3>
+
+	<figure>
+	    <img src="./Graphics/attribute_comparison.jpg" alight='Center' alt="attribute_comparison" height = "300"/>
+	    <figcaption>Question 1</figcaption>
+
+	    <img src="./Graphics/value_density.jpg" alight='Center' alt="attribute_comparison" height = "300"/>
+	    <figcaption>Question 2</figcaption>
+
+		<img src="./Graphics/fav_wine_comparison.jpg" alight='Center' alt="attribute_comparison" height = "300"/>
+	    <figcaption>Question 3, idea 1</figcaption>	    
+	</figure>
+
+	<p>
+		As a note, I noticed that especially questions 7-12 could all be answered by 13, so I feel like it covers
+		<b>Questions to examine:</b>
+		<ol>
+			<li>What is the easiest way to see the relationship between two attributes?</li>
+			<li>Over the range of values of a given attribute, are the samples from the dataset spread out evenly? (i.e. the pH is likely 4-7 for all wines, I am wondering if are there clusters at specific pH values, or is it an even density?)</li>
+			<li>Based on approximately 3 attributes and a given sample from the dataset, I would want to find the other wine samples that most matched. I'm curious to see how the other attributes would compare. Would they be similar?</li>
+		</ol>
+	</p>
+	<br/>
+	<p>
+		<b>1: </b> I believe the easiest way to see the relationship between two attributes is to make a scatter plot. There will be 12 buttons (or a drop down menu, tbd) on each axis for the user to pick which attribute to look at. Since the color of wine is important to wine drinkers, I will add a filter for which data users want to look at. The dots will be color coded based on what filter of wine type the user selected. However, this means that at minimum, users will be requesting data from about 2000 samples. Depending on how the final product looks (since that is a lot of dots over not neccesarily much range), it be neccesarry to partion the range of values so there is a set, not overwhelming number of dots. If this is the case, then the dots will be scaled to show how large the number of samples are in a given range. If this is not the case, then I will find the best fit line of the present dots to look at a trend. Additionally, I think this is the best way for users to have the freedom to make any inquiries they have (see questions 7-12, which could all be answered using this) in a way that is intuitive. The challenge for me will be making a dynamic scatter plot, with axes that would change with every new selection of attribute, updating scales, and making the transition look really good. I also would need to figure out how to to filter data based on the color of the wine. It might be easiest for me to make two JSON files, one for each color, then pull data from them when appropriate. This way I don't need to save values in a complicated way within the visualization code. Also, the clicking of a single value on the scatter plot could trigger the similar sample comparison visualization, which is question 3.
+	</p>
+	<br/>
+	<p>
+		<b>2: </b> I believe the easiest way to see the relationship between two attributes is to make a scatter plot. There will be 12 buttons (or a drop down menu, tbd) on each axis for the user to pick which attribute to look at. Since the color of wine is important to wine drinkers, I will add a filter for which data users want to look at. The dots will be color coded based on what filter of wine type the user selected. However, this means that at minimum, users will be requesting data from about 2000 samples. Depending on how the final product looks (since that is a lot of dots over not neccesarily much range), it be neccesarry to partion the range of values so there is a set, not overwhelming number of dots. If this is the case, then the dots will be scaled to show how large the number of samples are in a given range. If this is not the  case, then I will find the best fit line of the present dots to look at a trend.
+	</p>
+	<br/>
+	<p>
+		<b>3: </b> I believe it would be interesting for the user to have selected a specific sample (maybe by clicking on a dot in the scatter plot), then based on three attributes that they can toggle, I can use a weighted average to score how close other samples are. I can then show the best few matches. The user can then compare how other similar the values of the other attribuets are. I was thinking of showing this potentially in a bar chart, which you can see below. Since there can be no uniform y-axis, I thought it would be good to illustrated the relative value within the attribute, making the y-axis essentially a marker of whether the value is small, average, or large for its attribute. The height of each bar will be based on what fraction of the maximum value within its attribute, and this fraction will then be multiplied by a maximum bar height.
+	</p>
+	<p>
+		My other thought was that I could show the same relative value for each property with a heat map. The darker the shade, the bigger the value within the attribute. Also, with the selected samples lined up next to each other, it would afford very easy comparisons, as looking at the relative gradient in a column (or ring) would easily show how similar the samples' values are.
+	</p>
+	<figure>
+	    <img src="./Graphics/day_hour_heat_map.png" alt="attribute_comparison" height = "250"/>
+	    <figcaption>Question 3, idea 3</figcaption> 
+	</figure>
+	<figure>
+	    <img src="./Graphics/circular_heat_chart.png" alt="attribute_comparison" height = "300"/>
+	    <figcaption>Question 3, idea 2</figcaption> 
+	</figure>
+
+
+
+
+</body>
+</html>
