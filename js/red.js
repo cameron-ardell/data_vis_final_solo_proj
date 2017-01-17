@@ -11,7 +11,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.56,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -25,7 +26,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.68,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -39,7 +41,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.65,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.2,
@@ -53,7 +56,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -67,7 +71,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.56,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -81,7 +86,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.56,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -95,7 +101,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.46,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -109,7 +116,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -123,7 +131,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.57,
    "alcohol": 9.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -137,7 +146,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.8,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -151,7 +161,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.54,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -165,7 +176,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.8,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -179,7 +191,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -193,7 +206,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 1.56,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -207,7 +221,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.88,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -221,7 +236,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.93,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -235,7 +251,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.75,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -249,7 +266,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 1.28,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -263,7 +281,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.5,
    "alcohol": 9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -277,7 +296,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 1.08,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -291,7 +311,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -305,7 +326,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.65,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -319,7 +341,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.91,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -333,7 +356,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -347,7 +371,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.63,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -361,7 +386,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.56,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -375,7 +401,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -389,7 +416,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.91,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -403,7 +431,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -417,7 +446,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.59,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -431,7 +461,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -445,7 +476,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.57,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -459,7 +491,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -473,7 +506,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -487,7 +521,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.55,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -501,7 +536,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.55,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -515,7 +551,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.6,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -529,7 +566,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.73,
    "alcohol": 9.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.7,
@@ -543,7 +581,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.48,
    "alcohol": 9.8,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -557,7 +596,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.83,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -571,7 +611,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.83,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -585,7 +626,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.51,
    "alcohol": 9.3,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -599,7 +641,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.9,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -613,7 +656,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 1.2,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -627,7 +671,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.52,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 4.6,
@@ -641,7 +686,8 @@ var red = [
    "pH": 3.9,
    "sulphates": 0.56,
    "alcohol": 13.1,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -655,7 +701,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.73,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -669,7 +716,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -683,7 +731,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -697,7 +746,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.58,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -711,7 +761,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.74,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -725,7 +776,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.63,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -739,7 +791,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.64,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -753,7 +806,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.56,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -767,7 +821,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.63,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -781,7 +836,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -795,7 +851,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 0.63,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -809,7 +866,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.77,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -823,7 +881,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.59,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -837,7 +896,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -851,7 +911,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.64,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -865,7 +926,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.71,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -879,7 +941,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -893,7 +956,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.57,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -907,7 +971,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.39,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -921,7 +986,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.39,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -935,7 +1001,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.58,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -949,7 +1016,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.58,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -963,7 +1031,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.79,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -977,7 +1046,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.95,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -991,7 +1061,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -1005,7 +1076,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.48,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -1019,7 +1091,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.48,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1033,7 +1106,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.53,
    "alcohol": 9.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -1047,7 +1121,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.82,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -1061,7 +1136,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.66,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -1075,7 +1151,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.66,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -1089,7 +1166,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.55,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -1103,7 +1181,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.52,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1117,7 +1196,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 1.12,
    "alcohol": 9.1,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -1131,7 +1211,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1145,7 +1226,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 1.28,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -1159,7 +1241,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.57,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -1173,7 +1256,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 1.14,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -1187,7 +1271,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.78,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -1201,7 +1286,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.59,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -1215,7 +1301,8 @@ var red = [
    "pH": 2.93,
    "sulphates": 1.95,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -1229,7 +1316,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.64,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -1243,7 +1331,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 1.22,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -1257,7 +1346,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.53,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -1271,7 +1361,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -1285,7 +1376,8 @@ var red = [
    "pH": 2.93,
    "sulphates": 1.95,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -1299,7 +1391,8 @@ var red = [
    "pH": 2.93,
    "sulphates": 1.98,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -1313,7 +1406,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.64,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -1327,7 +1421,8 @@ var red = [
    "pH": 3.75,
    "sulphates": 0.48,
    "alcohol": 10.5,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 4.7,
@@ -1341,7 +1436,8 @@ var red = [
    "pH": 3.85,
    "sulphates": 0.6,
    "alcohol": 12.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -1355,7 +1451,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.56,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -1369,7 +1466,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.63,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -1383,7 +1481,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.56,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1397,7 +1496,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.59,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1411,7 +1511,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.61,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1425,7 +1526,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.56,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1439,7 +1541,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.59,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1453,7 +1556,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.51,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -1467,7 +1571,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1481,7 +1586,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.51,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1495,7 +1601,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 1.31,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -1509,7 +1616,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.79,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -1523,7 +1631,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.8,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1537,7 +1646,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.69,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1551,7 +1661,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.93,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -1565,7 +1676,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -1579,7 +1691,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -1593,7 +1706,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.67,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1607,7 +1721,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.93,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -1621,7 +1736,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.63,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1635,7 +1751,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.61,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1649,7 +1766,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.5,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -1663,7 +1781,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.6,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -1677,7 +1796,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.54,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -1691,7 +1811,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.57,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -1705,7 +1826,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.6,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -1719,7 +1841,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.52,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -1733,7 +1856,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1747,7 +1871,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.48,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -1761,7 +1886,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.7,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -1775,7 +1901,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.49,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -1789,7 +1916,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.48,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -1803,7 +1931,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.92,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -1817,7 +1946,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.57,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -1831,7 +1961,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.66,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -1845,7 +1976,8 @@ var red = [
    "pH": 3.63,
    "sulphates": 0.63,
    "alcohol": 13,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -1859,7 +1991,8 @@ var red = [
    "pH": 3.63,
    "sulphates": 0.63,
    "alcohol": 13,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -1873,7 +2006,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -1887,7 +2021,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.55,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -1901,7 +2036,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.82,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1915,7 +2051,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.77,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -1929,7 +2066,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.64,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1943,7 +2081,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -1957,7 +2096,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -1971,7 +2111,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.82,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -1985,7 +2126,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.77,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -1999,7 +2141,8 @@ var red = [
    "pH": 3.68,
    "sulphates": 0.79,
    "alcohol": 14,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -2013,7 +2156,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.58,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -2027,7 +2171,8 @@ var red = [
    "pH": 3.68,
    "sulphates": 0.79,
    "alcohol": 14,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -2041,7 +2186,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.8,
@@ -2055,7 +2201,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.52,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -2069,7 +2216,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.8,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -2083,7 +2231,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.58,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -2097,7 +2246,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.61,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2111,7 +2261,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.53,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -2125,7 +2276,8 @@ var red = [
    "pH": 2.74,
    "sulphates": 2,
    "alcohol": 9.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -2139,7 +2291,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -2153,7 +2306,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -2167,7 +2321,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.72,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -2181,7 +2336,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.71,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -2195,7 +2351,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.72,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -2209,7 +2366,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.71,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -2223,7 +2381,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.5,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2237,7 +2396,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.57,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -2251,7 +2411,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.56,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -2265,7 +2426,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 1.08,
    "alcohol": 9.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -2279,7 +2441,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.56,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -2293,7 +2456,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.49,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2307,7 +2471,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.49,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -2321,7 +2486,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2335,7 +2501,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.52,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2349,7 +2516,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.48,
    "alcohol": 9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2363,7 +2531,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.55,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -2377,7 +2546,8 @@ var red = [
    "pH": 3,
    "sulphates": 1.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -2391,7 +2561,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.33,
    "alcohol": 9.1,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -2405,7 +2576,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.61,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -2419,7 +2591,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.61,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -2433,7 +2606,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.57,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2447,7 +2621,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.47,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -2461,7 +2636,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.78,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2475,7 +2651,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.47,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -2489,7 +2666,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.61,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -2503,7 +2681,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.56,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -2517,7 +2696,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -2531,7 +2711,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -2545,7 +2726,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 1.02,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -2559,7 +2741,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.52,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2573,7 +2756,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.58,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -2587,7 +2771,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.58,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -2601,7 +2786,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -2615,7 +2801,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.55,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -2629,7 +2816,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.49,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -2643,7 +2831,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -2657,7 +2846,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -2671,7 +2861,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -2685,7 +2876,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.62,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2699,7 +2891,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.61,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -2713,7 +2906,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.55,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -2727,7 +2921,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.55,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -2741,7 +2936,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -2755,7 +2951,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.59,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -2769,7 +2966,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.97,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.4,
@@ -2783,7 +2981,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.85,
    "alcohol": 13,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -2797,7 +2996,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.43,
    "alcohol": 11.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -2811,7 +3011,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.82,
    "alcohol": 10.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -2825,7 +3026,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 1.03,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -2839,7 +3041,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.79,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -2853,7 +3056,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.55,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -2867,7 +3071,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.8,
@@ -2881,7 +3086,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.77,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.8,
@@ -2895,7 +3101,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.77,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -2909,7 +3116,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.53,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -2923,7 +3131,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.67,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11,
@@ -2937,7 +3146,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.88,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -2951,7 +3161,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.86,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -2965,7 +3176,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.56,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -2979,7 +3191,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.67,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -2993,7 +3206,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.43,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -3007,7 +3221,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.71,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -3021,7 +3236,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.76,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -3035,7 +3251,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.57,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -3049,7 +3266,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.55,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -3063,7 +3281,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.54,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -3077,7 +3296,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -3091,7 +3311,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.59,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -3105,7 +3326,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.57,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -3119,7 +3341,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -3133,7 +3356,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.6,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -3147,7 +3371,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.57,
    "alcohol": 10.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3161,7 +3386,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -3175,7 +3401,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 1.61,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -3189,7 +3416,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.63,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3203,7 +3431,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -3217,7 +3446,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.5,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -3231,7 +3461,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.62,
    "alcohol": 12.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -3245,7 +3476,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -3259,7 +3491,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.7,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -3273,7 +3506,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.5,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -3287,7 +3521,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.55,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -3301,7 +3536,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -3315,7 +3551,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -3329,7 +3566,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -3343,7 +3581,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -3357,7 +3596,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.55,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -3371,7 +3611,8 @@ var red = [
    "pH": 3,
    "sulphates": 1.09,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -3385,7 +3626,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.71,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3399,7 +3641,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.49,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 15,
@@ -3413,7 +3656,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.84,
    "alcohol": 9.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 15,
@@ -3427,7 +3671,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.84,
    "alcohol": 9.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -3441,7 +3686,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.96,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -3455,7 +3701,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.52,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -3469,7 +3716,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.45,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3483,7 +3731,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.48,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -3497,7 +3746,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.96,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -3511,7 +3761,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.78,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -3525,7 +3776,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.7,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -3539,7 +3791,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.53,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3553,7 +3806,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -3567,7 +3821,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.7,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -3581,7 +3836,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.57,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -3595,7 +3851,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.62,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -3609,7 +3866,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.67,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3623,7 +3881,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 1.26,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -3637,7 +3896,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.8,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -3651,7 +3911,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.65,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -3665,7 +3926,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.6,
    "alcohol": 9.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -3679,7 +3941,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.57,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -3693,7 +3956,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.67,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -3707,7 +3971,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.87,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.8,
@@ -3721,7 +3986,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.72,
    "alcohol": 10.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -3735,7 +4001,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.72,
    "alcohol": 9.8,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -3749,7 +4016,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.86,
    "alcohol": 12.8,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -3763,7 +4031,8 @@ var red = [
    "pH": 3.69,
    "sulphates": 0.91,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -3777,7 +4046,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.97,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -3791,7 +4061,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.67,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -3805,7 +4076,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.97,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -3819,7 +4091,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.78,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -3833,7 +4106,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.64,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -3847,7 +4121,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.77,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -3861,7 +4136,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.67,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -3875,7 +4151,8 @@ var red = [
    "pH": 3.69,
    "sulphates": 0.91,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -3889,7 +4166,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.97,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -3903,7 +4181,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.82,
    "alcohol": 12.6,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -3917,7 +4196,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.77,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.4,
@@ -3931,7 +4211,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.82,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -3945,7 +4226,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 1.08,
    "alcohol": 9.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -3959,7 +4241,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.57,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -3973,7 +4256,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.77,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -3987,7 +4271,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.71,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -4001,7 +4286,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.71,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -4015,7 +4301,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.76,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -4029,7 +4316,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.7,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -4043,7 +4331,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.86,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -4057,7 +4346,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.95,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -4071,7 +4361,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.86,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11,
@@ -4085,7 +4376,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.71,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -4099,7 +4391,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.64,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -4113,7 +4406,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.6,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.3,
@@ -4127,7 +4421,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.81,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -4141,7 +4436,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.64,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -4155,7 +4451,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -4169,7 +4466,8 @@ var red = [
    "pH": 3.67,
    "sulphates": 0.73,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -4183,7 +4481,8 @@ var red = [
    "pH": 3.67,
    "sulphates": 0.8,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -4197,7 +4496,8 @@ var red = [
    "pH": 3.68,
    "sulphates": 0.71,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -4211,7 +4511,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.59,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -4225,7 +4526,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.64,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -4239,7 +4541,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.72,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -4253,7 +4556,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -4267,7 +4571,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.52,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4281,7 +4586,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.59,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -4295,7 +4601,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4309,7 +4616,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4323,7 +4631,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.63,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -4337,7 +4646,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4351,7 +4661,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.59,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -4365,7 +4676,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -4379,7 +4691,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.63,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -4393,7 +4706,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -4407,7 +4721,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.68,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -4421,7 +4736,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.65,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -4435,7 +4751,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.65,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -4449,7 +4766,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -4463,7 +4781,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.71,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -4477,7 +4796,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -4491,7 +4811,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.71,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -4505,7 +4826,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.62,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -4519,7 +4841,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.63,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4533,7 +4856,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.7,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -4547,7 +4871,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.69,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -4561,7 +4886,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.69,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -4575,7 +4901,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.74,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -4589,7 +4916,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.83,
    "alcohol": 11.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.4,
@@ -4603,7 +4931,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.67,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -4617,7 +4946,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -4631,7 +4961,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.66,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -4645,7 +4976,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.66,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -4659,7 +4991,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -4673,7 +5006,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.52,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -4687,7 +5021,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.74,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -4701,7 +5036,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.84,
    "alcohol": 12.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -4715,7 +5051,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.7,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -4729,7 +5066,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.64,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.4,
@@ -4743,7 +5081,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 1,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -4757,7 +5096,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 1.36,
    "alcohol": 9.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.2,
@@ -4771,7 +5111,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 1.18,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -4785,7 +5126,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.87,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -4799,7 +5141,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.75,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -4813,7 +5156,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.75,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -4827,7 +5171,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.78,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -4841,7 +5186,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.81,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -4855,7 +5201,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.89,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.8,
@@ -4869,7 +5216,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.93,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -4883,7 +5231,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.92,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -4897,7 +5246,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.86,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -4911,7 +5261,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.98,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -4925,7 +5276,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.83,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -4939,7 +5291,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.73,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.5,
@@ -4953,7 +5306,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.77,
    "alcohol": 13,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -4967,7 +5321,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.59,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -4981,7 +5336,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.61,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -4995,7 +5351,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.88,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -5009,7 +5366,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.75,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -5023,7 +5381,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.85,
    "alcohol": 10.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.6,
@@ -5037,7 +5396,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.68,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -5051,7 +5411,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.7,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -5065,7 +5426,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.91,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -5079,7 +5441,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.56,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -5093,7 +5456,8 @@ var red = [
    "pH": 2.99,
    "sulphates": 0.87,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.8,
@@ -5107,7 +5471,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.73,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -5121,7 +5486,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.93,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.8,
@@ -5135,7 +5501,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.73,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -5149,7 +5516,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.69,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -5163,7 +5531,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.64,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -5177,7 +5546,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 1.13,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -5191,7 +5561,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.78,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -5205,7 +5576,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.87,
    "alcohol": 8.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -5219,7 +5591,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 1.04,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -5233,7 +5606,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.63,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 14,
@@ -5247,7 +5621,8 @@ var red = [
    "pH": 3.01,
    "sulphates": 0.81,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -5261,7 +5636,8 @@ var red = [
    "pH": 3.01,
    "sulphates": 0.83,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -5275,7 +5651,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 1.11,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -5289,7 +5666,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 1.13,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.4,
@@ -5303,7 +5681,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.99,
    "alcohol": 13.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -5317,7 +5696,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.7,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -5331,7 +5711,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.8,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.7,
@@ -5345,7 +5726,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.8,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -5359,7 +5741,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.8,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -5373,7 +5756,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.8,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -5387,7 +5771,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.74,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -5401,7 +5786,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.76,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -5415,7 +5801,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.74,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -5429,7 +5816,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.54,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -5443,7 +5831,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.74,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -5457,7 +5846,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.7,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -5471,7 +5861,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.82,
    "alcohol": 12.9,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.7,
@@ -5485,7 +5876,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.8,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -5499,7 +5891,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.51,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -5513,7 +5906,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.54,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.7,
@@ -5527,7 +5921,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 0.57,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -5541,7 +5936,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.6,
    "alcohol": 13,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -5555,7 +5951,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.53,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -5569,7 +5966,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.65,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -5583,7 +5981,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.65,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -5597,7 +5996,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -5611,7 +6011,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.53,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -5625,7 +6026,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.47,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.2,
@@ -5639,7 +6041,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.61,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.4,
@@ -5653,7 +6056,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.63,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -5667,7 +6071,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.61,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -5681,7 +6086,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.76,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -5695,7 +6101,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.65,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -5709,7 +6116,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.63,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -5723,7 +6131,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.7,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -5737,7 +6146,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.57,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -5751,7 +6161,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -5765,7 +6176,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -5779,7 +6191,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.64,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -5793,7 +6206,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.82,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -5807,7 +6221,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.61,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -5821,7 +6236,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 1.07,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -5835,7 +6251,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.66,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -5849,7 +6266,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.48,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -5863,7 +6281,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.76,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -5877,7 +6296,8 @@ var red = [
    "pH": 3.62,
    "sulphates": 0.68,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -5891,7 +6311,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.73,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -5905,7 +6326,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.56,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -5919,7 +6341,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.44,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -5933,7 +6356,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.9,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -5947,7 +6371,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.44,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -5961,7 +6386,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.56,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -5975,7 +6401,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.49,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -5989,7 +6416,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.56,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -6003,7 +6431,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.8,
@@ -6017,7 +6446,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.6,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -6031,7 +6461,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.9,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -6045,7 +6476,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -6059,7 +6491,8 @@ var red = [
    "pH": 3,
    "sulphates": 0.65,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.3,
@@ -6073,7 +6506,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.49,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -6087,7 +6521,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.89,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.3,
@@ -6101,7 +6536,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.49,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -6115,7 +6551,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.56,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -6129,7 +6566,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.66,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -6143,7 +6581,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.89,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -6157,7 +6596,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.6,
@@ -6171,7 +6611,8 @@ var red = [
    "pH": 2.88,
    "sulphates": 0.82,
    "alcohol": 9.8,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -6185,7 +6626,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.68,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 15.6,
@@ -6199,7 +6641,8 @@ var red = [
    "pH": 2.95,
    "sulphates": 0.68,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -6213,7 +6656,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.63,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.3,
@@ -6227,7 +6671,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.84,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -6241,7 +6686,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.56,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -6255,7 +6701,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.73,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -6269,7 +6716,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.72,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -6283,7 +6731,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.56,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -6297,7 +6746,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.61,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -6311,7 +6761,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.61,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -6325,7 +6776,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 1.06,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -6339,7 +6791,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.63,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -6353,7 +6806,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.74,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -6367,7 +6821,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.63,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -6381,7 +6836,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.69,
    "alcohol": 13.4,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -6395,7 +6851,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -6409,7 +6866,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.58,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -6423,7 +6881,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.74,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -6437,7 +6896,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.57,
    "alcohol": 9,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -6451,7 +6911,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.61,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -6465,7 +6926,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.61,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11,
@@ -6479,7 +6941,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.61,
    "alcohol": 11.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -6493,7 +6956,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.53,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -6507,7 +6971,8 @@ var red = [
    "pH": 2.98,
    "sulphates": 0.7,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -6521,7 +6986,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.91,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -6535,7 +7001,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.72,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -6549,7 +7016,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.79,
    "alcohol": 14,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.4,
@@ -6563,7 +7031,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.62,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -6577,7 +7046,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13,
@@ -6591,7 +7061,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.61,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -6605,7 +7076,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.71,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -6619,7 +7091,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.82,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -6633,7 +7106,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.79,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -6647,7 +7121,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.89,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -6661,7 +7136,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.6,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -6675,7 +7151,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.7,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -6689,7 +7166,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 1.06,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -6703,7 +7181,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.6,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -6717,7 +7196,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.7,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -6731,7 +7211,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.66,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -6745,7 +7226,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.92,
    "alcohol": 11.7,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -6759,7 +7241,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 1.05,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -6773,7 +7256,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 1.06,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -6787,7 +7271,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.66,
    "alcohol": 13.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -6801,7 +7286,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -6815,7 +7301,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -6829,7 +7316,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.42,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -6843,7 +7331,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.92,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -6857,7 +7346,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.75,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -6871,7 +7361,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.67,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -6885,7 +7376,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.79,
    "alcohol": 13.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -6899,7 +7391,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.9,
    "alcohol": 13.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -6913,7 +7406,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.74,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -6927,7 +7421,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.55,
    "alcohol": 12.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -6941,7 +7436,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.65,
    "alcohol": 11,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -6955,7 +7451,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.65,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -6969,7 +7466,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.79,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -6983,7 +7481,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.65,
    "alcohol": 11,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -6997,7 +7496,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.74,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -7011,7 +7511,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.65,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -7025,7 +7526,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.85,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -7039,7 +7541,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.85,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -7053,7 +7556,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 1.04,
    "alcohol": 10.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -7067,7 +7571,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 1.05,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -7081,7 +7586,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.78,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -7095,7 +7601,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 1.02,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.2,
@@ -7109,7 +7616,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.71,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -7123,7 +7631,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.63,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.3,
@@ -7137,7 +7646,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 0.68,
    "alcohol": 11.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.4,
@@ -7151,7 +7661,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.61,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -7165,7 +7676,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.63,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -7179,7 +7691,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 0.81,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -7193,7 +7706,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.66,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -7207,7 +7721,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.66,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -7221,7 +7736,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 1.14,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.5,
@@ -7235,7 +7751,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.74,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -7249,7 +7766,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.63,
    "alcohol": 8.4,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -7263,7 +7781,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.68,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -7277,7 +7796,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.78,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -7291,7 +7811,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.9,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -7305,7 +7826,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.64,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -7319,7 +7841,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.99,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -7333,7 +7856,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -7347,7 +7871,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.64,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -7361,7 +7886,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.67,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -7375,7 +7901,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.78,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -7389,7 +7916,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.77,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -7403,7 +7931,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.75,
    "alcohol": 8.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -7417,7 +7946,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.57,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -7431,7 +7961,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.87,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -7445,7 +7976,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.61,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -7459,7 +7991,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.61,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -7473,7 +8006,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.66,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -7487,7 +8021,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.56,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -7501,7 +8036,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.87,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -7515,7 +8051,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.57,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -7529,7 +8066,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.77,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.9,
@@ -7543,7 +8081,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.66,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.2,
@@ -7557,7 +8096,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.62,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -7571,7 +8111,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.67,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -7585,7 +8126,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.73,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -7599,7 +8141,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.59,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.2,
@@ -7613,7 +8156,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.72,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 14.3,
@@ -7627,7 +8171,8 @@ var red = [
    "pH": 2.86,
    "sulphates": 0.79,
    "alcohol": 8.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -7641,7 +8186,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.59,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -7655,7 +8201,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.78,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -7669,7 +8216,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.86,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.4,
@@ -7683,7 +8231,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.75,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -7697,7 +8246,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.61,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -7711,7 +8261,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.56,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -7725,7 +8276,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.73,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -7739,7 +8291,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.74,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -7753,7 +8306,8 @@ var red = [
    "pH": 3.74,
    "sulphates": 0.62,
    "alcohol": 11.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 15.5,
@@ -7767,7 +8321,8 @@ var red = [
    "pH": 2.92,
    "sulphates": 0.74,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 15.5,
@@ -7781,7 +8336,8 @@ var red = [
    "pH": 2.92,
    "sulphates": 0.74,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -7795,7 +8351,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.56,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 15.6,
@@ -7809,7 +8366,8 @@ var red = [
    "pH": 2.92,
    "sulphates": 0.74,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -7823,7 +8381,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.56,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 13,
@@ -7837,7 +8396,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.68,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.7,
@@ -7851,7 +8411,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.57,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -7865,7 +8426,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.58,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -7879,7 +8441,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.61,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -7893,7 +8456,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.61,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 13,
@@ -7907,7 +8471,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.68,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.7,
@@ -7921,7 +8486,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.57,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -7935,7 +8501,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.6,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -7949,7 +8516,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.6,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -7963,7 +8531,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.79,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -7977,7 +8546,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.57,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -7991,7 +8561,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.91,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -8005,7 +8576,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.57,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -8019,7 +8591,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.61,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -8033,7 +8606,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.56,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -8047,7 +8621,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.7,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.3,
@@ -8061,7 +8636,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.8,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -8075,7 +8651,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.52,
    "alcohol": 10,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8089,7 +8666,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8103,7 +8681,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.6,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -8117,7 +8696,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.51,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.3,
@@ -8131,7 +8711,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.44,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.3,
@@ -8145,7 +8726,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.44,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.7,
@@ -8159,7 +8741,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.43,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -8173,7 +8756,8 @@ var red = [
    "pH": 2.98,
    "sulphates": 0.66,
    "alcohol": 9.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.8,
@@ -8187,7 +8771,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.76,
    "alcohol": 10.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -8201,7 +8786,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.66,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -8215,7 +8801,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 1.02,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -8229,7 +8816,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.59,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -8243,7 +8831,8 @@ var red = [
    "pH": 3.72,
    "sulphates": 0.74,
    "alcohol": 14,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -8257,7 +8846,8 @@ var red = [
    "pH": 3.05,
    "sulphates": 0.74,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -8271,7 +8861,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -8285,7 +8876,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.5,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -8299,7 +8891,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -8313,7 +8906,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -8327,7 +8921,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -8341,7 +8936,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.57,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.4,
@@ -8355,7 +8951,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.9,
@@ -8369,7 +8966,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.63,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -8383,7 +8981,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.48,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.7,
@@ -8397,7 +8996,8 @@ var red = [
    "pH": 3,
    "sulphates": 0.7,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -8411,7 +9011,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.2,
@@ -8425,7 +9026,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.56,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -8439,7 +9041,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.52,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.2,
@@ -8453,7 +9056,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.56,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -8467,7 +9071,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.62,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -8481,7 +9086,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.59,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -8495,7 +9101,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.79,
    "alcohol": 12.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8509,7 +9116,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.53,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -8523,7 +9131,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -8537,7 +9146,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.52,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8551,7 +9161,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.54,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.2,
@@ -8565,7 +9176,8 @@ var red = [
    "pH": 2.98,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -8579,7 +9191,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.6,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -8593,7 +9206,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.74,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -8607,7 +9221,8 @@ var red = [
    "pH": 2.87,
    "sulphates": 1.36,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -8621,7 +9236,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -8635,7 +9251,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -8649,7 +9266,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 0.93,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.4,
@@ -8663,7 +9281,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.7,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -8677,7 +9296,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.8,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -8691,7 +9311,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.61,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -8705,7 +9326,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -8719,7 +9341,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -8733,7 +9356,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.96,
    "alcohol": 12.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -8747,7 +9371,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.72,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -8761,7 +9386,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.72,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8775,7 +9401,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.49,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -8789,7 +9416,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.49,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -8803,7 +9431,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -8817,7 +9446,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.61,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -8831,7 +9461,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -8845,7 +9476,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.63,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -8859,7 +9491,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.57,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -8873,7 +9506,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.64,
    "alcohol": 11.3,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -8887,7 +9521,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -8901,7 +9536,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.55,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -8915,7 +9551,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -8929,7 +9566,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -8943,7 +9581,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.65,
    "alcohol": 10.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -8957,7 +9596,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 1.36,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -8971,7 +9611,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -8985,7 +9626,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.63,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -8999,7 +9641,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -9013,7 +9656,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.63,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -9027,7 +9671,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -9041,7 +9686,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.69,
    "alcohol": 10.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -9055,7 +9701,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.63,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -9069,7 +9716,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.58,
    "alcohol": 11,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -9083,7 +9731,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.67,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -9097,7 +9746,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.57,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -9111,7 +9761,8 @@ var red = [
    "pH": 2.89,
    "sulphates": 0.5,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -9125,7 +9776,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.67,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 15.9,
@@ -9139,7 +9791,8 @@ var red = [
    "pH": 2.98,
    "sulphates": 0.84,
    "alcohol": 14.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -9153,7 +9806,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.54,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -9167,7 +9821,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.46,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -9181,7 +9836,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.61,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -9195,7 +9851,8 @@ var red = [
    "pH": 2.89,
    "sulphates": 0.5,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -9209,7 +9866,8 @@ var red = [
    "pH": 2.92,
    "sulphates": 0.68,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -9223,7 +9881,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.81,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -9237,7 +9896,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.57,
    "alcohol": 11,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -9251,7 +9911,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.81,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -9265,7 +9926,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.64,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -9279,7 +9941,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.7,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -9293,7 +9956,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 0.79,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.1,
@@ -9307,7 +9971,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 0.66,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -9321,7 +9986,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.56,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -9335,7 +10001,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -9349,7 +10016,8 @@ var red = [
    "pH": 2.94,
    "sulphates": 0.66,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -9363,7 +10031,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.57,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -9377,7 +10046,8 @@ var red = [
    "pH": 2.94,
    "sulphates": 0.66,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -9391,7 +10061,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.58,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -9405,7 +10076,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.52,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -9419,7 +10091,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -9433,7 +10106,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.52,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -9447,7 +10121,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.67,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -9461,7 +10136,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.65,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -9475,7 +10151,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.67,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -9489,7 +10166,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.48,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -9503,7 +10181,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.53,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -9517,7 +10196,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.54,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 13.3,
@@ -9531,7 +10211,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.49,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -9545,7 +10226,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.49,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -9559,7 +10241,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.54,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -9573,7 +10256,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.56,
    "alcohol": 11.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -9587,7 +10271,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -9601,7 +10286,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.56,
    "alcohol": 11.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -9615,7 +10301,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.6,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -9629,7 +10316,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.59,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -9643,7 +10331,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.47,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -9657,7 +10346,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 1.05,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -9671,7 +10361,8 @@ var red = [
    "pH": 3.63,
    "sulphates": 0.54,
    "alcohol": 10.7,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -9685,7 +10376,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.54,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -9699,7 +10391,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 1.17,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -9713,7 +10406,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -9727,7 +10421,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.61,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.1,
@@ -9741,7 +10436,8 @@ var red = [
    "pH": 3.9,
    "sulphates": 0.62,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -9755,7 +10451,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.67,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -9769,7 +10466,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.67,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -9783,7 +10481,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.8,
@@ -9797,7 +10496,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.62,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -9811,7 +10511,8 @@ var red = [
    "pH": 3.08,
    "sulphates": 0.57,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -9825,7 +10526,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.67,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -9839,7 +10541,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.67,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -9853,7 +10556,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.7,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -9867,7 +10571,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 9.7,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -9881,7 +10586,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.49,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -9895,7 +10601,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -9909,7 +10616,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.51,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -9923,7 +10631,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.61,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -9937,7 +10646,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.66,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -9951,7 +10661,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.57,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -9965,7 +10676,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.61,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -9979,7 +10691,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.45,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -9993,7 +10706,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.46,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -10007,7 +10721,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.51,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -10021,7 +10736,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.48,
    "alcohol": 9.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -10035,7 +10751,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.46,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -10049,7 +10766,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.57,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -10063,7 +10781,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.44,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10077,7 +10796,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -10091,7 +10811,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.44,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -10105,7 +10826,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.53,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -10119,7 +10841,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.59,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10133,7 +10856,8 @@ var red = [
    "pH": 2.94,
    "sulphates": 1.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -10147,7 +10871,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -10161,7 +10886,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.55,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -10175,7 +10901,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.72,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -10189,7 +10916,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.68,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -10203,7 +10931,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.68,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -10217,7 +10946,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.49,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -10231,7 +10961,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.67,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -10245,7 +10976,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.52,
    "alcohol": 11.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -10259,7 +10991,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.47,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -10273,7 +11006,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -10287,7 +11021,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.62,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -10301,7 +11036,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -10315,7 +11051,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -10329,7 +11066,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.65,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -10343,7 +11081,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -10357,7 +11096,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -10371,7 +11111,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.68,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -10385,7 +11126,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.57,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -10399,7 +11141,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.65,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -10413,7 +11156,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.53,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -10427,7 +11171,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.51,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -10441,7 +11186,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.73,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -10455,7 +11201,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.47,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -10469,7 +11216,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -10483,7 +11231,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.72,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -10497,7 +11246,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.73,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -10511,7 +11261,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -10525,7 +11276,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -10539,7 +11291,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.61,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -10553,7 +11306,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -10567,7 +11321,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 1.06,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -10581,7 +11336,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.43,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -10595,7 +11351,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.46,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -10609,7 +11366,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.5,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -10623,7 +11381,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.5,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -10637,7 +11396,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.52,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -10651,7 +11411,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -10665,7 +11426,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.42,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -10679,7 +11441,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.53,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -10693,7 +11456,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.42,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -10707,7 +11471,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -10721,7 +11486,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -10735,7 +11501,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -10749,7 +11516,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10763,7 +11531,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -10777,7 +11546,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.54,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10791,7 +11561,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -10805,7 +11576,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -10819,7 +11591,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -10833,7 +11606,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.92,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -10847,7 +11621,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.91,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -10861,7 +11636,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.46,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -10875,7 +11651,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.6,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -10889,7 +11666,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.59,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -10903,7 +11681,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.61,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10917,7 +11696,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.6,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -10931,7 +11711,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.6,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -10945,7 +11726,8 @@ var red = [
    "pH": 3.66,
    "sulphates": 0.65,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -10959,7 +11741,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.53,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -10973,7 +11756,8 @@ var red = [
    "pH": 3.66,
    "sulphates": 0.65,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -10987,7 +11771,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.59,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -11001,7 +11786,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -11015,7 +11801,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -11029,7 +11816,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.56,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -11043,7 +11831,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.56,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -11057,7 +11846,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.52,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -11071,7 +11861,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.68,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -11085,7 +11876,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.54,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11099,7 +11891,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.6,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -11113,7 +11906,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.56,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -11127,7 +11921,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.53,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -11141,7 +11936,8 @@ var red = [
    "pH": 2.99,
    "sulphates": 1.18,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -11155,7 +11951,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.74,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11169,7 +11966,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.81,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -11183,7 +11981,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.52,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -11197,7 +11996,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.52,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -11211,7 +12011,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.51,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -11225,7 +12026,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.44,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.1,
@@ -11239,7 +12041,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.94,
    "alcohol": 12.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -11253,7 +12056,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.66,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -11267,7 +12071,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.57,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -11281,7 +12086,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.7,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -11295,7 +12101,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.71,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -11309,7 +12116,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.7,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -11323,7 +12131,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.86,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -11337,7 +12146,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.55,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -11351,7 +12161,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.47,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.9,
@@ -11365,7 +12176,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.68,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -11379,7 +12191,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.71,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -11393,7 +12206,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.58,
    "alcohol": 11.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.6,
@@ -11407,7 +12221,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.76,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -11421,7 +12236,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.71,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -11435,7 +12251,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.58,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -11449,7 +12266,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.73,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11463,7 +12281,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.45,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -11477,7 +12296,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.54,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -11491,7 +12311,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.6,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 4.9,
@@ -11505,7 +12326,8 @@ var red = [
    "pH": 3.71,
    "sulphates": 0.74,
    "alcohol": 14,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -11519,7 +12341,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.64,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -11533,7 +12356,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.64,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11547,7 +12371,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.53,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11561,7 +12386,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.49,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -11575,7 +12401,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.64,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11589,7 +12416,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.49,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -11603,7 +12431,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.74,
    "alcohol": 12.7,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -11617,7 +12446,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.77,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -11631,7 +12461,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.55,
    "alcohol": 10.9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -11645,7 +12476,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.77,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -11659,7 +12491,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.86,
    "alcohol": 9.9,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -11673,7 +12506,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.86,
    "alcohol": 9.9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -11687,7 +12521,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.47,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -11701,7 +12536,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.51,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -11715,7 +12551,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.39,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -11729,7 +12566,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.39,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -11743,7 +12581,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.83,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -11757,7 +12596,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.47,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -11771,7 +12611,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.77,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -11785,7 +12626,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.63,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -11799,7 +12641,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.72,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -11813,7 +12656,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.62,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -11827,7 +12671,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.83,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -11841,7 +12686,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -11855,7 +12701,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -11869,7 +12716,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.7,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -11883,7 +12731,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -11897,7 +12746,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.66,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11911,7 +12761,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11925,7 +12776,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -11939,7 +12791,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 1.07,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11953,7 +12806,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.73,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11967,7 +12821,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.73,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -11981,7 +12836,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.71,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -11995,7 +12851,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.73,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -12009,7 +12866,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.78,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.7,
@@ -12023,7 +12881,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.67,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12037,7 +12896,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.82,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12051,7 +12911,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.8,
@@ -12065,7 +12926,8 @@ var red = [
    "pH": 3.66,
    "sulphates": 0.6,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -12079,7 +12941,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.44,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12093,7 +12956,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12107,7 +12971,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12121,7 +12986,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.54,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12135,7 +13001,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.83,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -12149,7 +13016,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.84,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12163,7 +13031,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.82,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -12177,7 +13046,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.64,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -12191,7 +13061,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.57,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -12205,7 +13076,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.57,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -12219,7 +13091,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.54,
    "alcohol": 10,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -12233,7 +13106,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.58,
    "alcohol": 11.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -12247,7 +13121,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.65,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -12261,7 +13136,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.79,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -12275,7 +13151,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.58,
    "alcohol": 10.9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -12289,7 +13166,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.57,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -12303,7 +13181,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.5,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12317,7 +13196,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -12331,7 +13211,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.49,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -12345,7 +13226,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.65,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12359,7 +13241,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.78,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12373,7 +13256,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -12387,7 +13271,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.5,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -12401,7 +13286,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.64,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -12415,7 +13301,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.65,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -12429,7 +13316,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.79,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12443,7 +13331,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.56,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -12457,7 +13346,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.68,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12471,7 +13361,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.58,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12485,7 +13376,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -12499,7 +13391,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.65,
    "alcohol": 9.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12513,7 +13406,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.57,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12527,7 +13421,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -12541,7 +13436,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.58,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -12555,7 +13451,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.77,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -12569,7 +13466,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.58,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -12583,7 +13481,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.77,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -12597,7 +13496,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.49,
    "alcohol": 11,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -12611,7 +13511,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.69,
    "alcohol": 11.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -12625,7 +13526,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.69,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -12639,7 +13541,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.69,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12653,7 +13556,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.59,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12667,7 +13571,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.59,
    "alcohol": 10.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -12681,7 +13586,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -12695,7 +13601,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.71,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -12709,7 +13616,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.54,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -12723,7 +13631,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.59,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -12737,7 +13646,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.52,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -12751,7 +13661,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.57,
    "alcohol": 13.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -12765,7 +13676,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.6,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -12779,7 +13691,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.62,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -12793,7 +13706,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.64,
    "alcohol": 12.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -12807,7 +13721,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.52,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -12821,7 +13736,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.67,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.3,
@@ -12835,7 +13751,8 @@ var red = [
    "pH": 3.62,
    "sulphates": 0.61,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12849,7 +13766,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.64,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12863,7 +13781,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.72,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12877,7 +13796,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.89,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -12891,7 +13811,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.56,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12905,7 +13826,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.72,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12919,7 +13841,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.89,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -12933,7 +13856,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.64,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -12947,7 +13871,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.8,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -12961,7 +13886,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.87,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -12975,7 +13901,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.9,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -12989,7 +13916,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.59,
    "alcohol": 9.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -13003,7 +13931,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.8,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -13017,7 +13946,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.73,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -13031,7 +13961,8 @@ var red = [
    "pH": 3.69,
    "sulphates": 0.73,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -13045,7 +13976,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.65,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -13059,7 +13991,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -13073,7 +14006,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.65,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -13087,7 +14021,8 @@ var red = [
    "pH": 3.69,
    "sulphates": 0.73,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -13101,7 +14036,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.72,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -13115,7 +14051,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.72,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12,
@@ -13129,7 +14066,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.6,
    "alcohol": 10.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -13143,7 +14081,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.72,
    "alcohol": 12.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -13157,7 +14096,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.54,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -13171,7 +14111,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.76,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -13185,7 +14126,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.52,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -13199,7 +14141,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.64,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -13213,7 +14156,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.6,
    "alcohol": 9.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -13227,7 +14171,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.64,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -13241,7 +14186,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.79,
    "alcohol": 11.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -13255,7 +14201,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.99,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -13269,7 +14216,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.62,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -13283,7 +14231,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.76,
    "alcohol": 11.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -13297,7 +14246,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.76,
    "alcohol": 11.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -13311,7 +14261,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.76,
    "alcohol": 11.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -13325,7 +14276,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.62,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -13339,7 +14291,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.68,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -13353,7 +14306,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.69,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -13367,7 +14321,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.54,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -13381,7 +14336,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.67,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -13395,7 +14351,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.62,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -13409,7 +14366,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.58,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -13423,7 +14381,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.71,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -13437,7 +14396,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.61,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -13451,7 +14411,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.85,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -13465,7 +14426,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.62,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -13479,7 +14441,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.69,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -13493,7 +14456,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.69,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -13507,7 +14471,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.85,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -13521,7 +14486,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.86,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -13535,7 +14501,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.58,
    "alcohol": 11.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -13549,7 +14516,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.48,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -13563,7 +14531,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.6,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -13577,7 +14546,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.61,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -13591,7 +14561,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.87,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -13605,7 +14576,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.87,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -13619,7 +14591,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.65,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -13633,7 +14606,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.63,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -13647,7 +14621,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.62,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -13661,7 +14636,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -13675,7 +14651,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -13689,7 +14666,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.5,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -13703,7 +14681,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.49,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.2,
@@ -13717,7 +14696,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.63,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -13731,7 +14711,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.71,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -13745,7 +14726,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.62,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -13759,7 +14741,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.82,
    "alcohol": 12.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -13773,7 +14756,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.71,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.2,
@@ -13787,7 +14771,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.63,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -13801,7 +14786,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.58,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -13815,7 +14801,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.55,
    "alcohol": 11.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -13829,7 +14816,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.5,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -13843,7 +14831,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.49,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -13857,7 +14846,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.51,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -13871,7 +14861,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.49,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -13885,7 +14876,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -13899,7 +14891,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -13913,7 +14906,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.48,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -13927,7 +14921,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.43,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -13941,7 +14936,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.62,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -13955,7 +14951,8 @@ var red = [
    "pH": 3.71,
    "sulphates": 0.63,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -13969,7 +14966,8 @@ var red = [
    "pH": 3.71,
    "sulphates": 0.63,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -13983,7 +14981,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.48,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -13997,7 +14996,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.53,
    "alcohol": 12.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -14011,7 +15011,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.72,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -14025,7 +15026,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.82,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -14039,7 +15041,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.84,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -14053,7 +15056,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.55,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -14067,7 +15071,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.54,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -14081,7 +15086,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.55,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -14095,7 +15101,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.84,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -14109,7 +15116,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.84,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14123,7 +15131,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.7,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -14137,7 +15146,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.68,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14151,7 +15161,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.55,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14165,7 +15176,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.55,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -14179,7 +15191,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.48,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -14193,7 +15206,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.58,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -14207,7 +15221,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.58,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -14221,7 +15236,8 @@ var red = [
    "pH": 3.06,
    "sulphates": 0.84,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14235,7 +15251,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.75,
    "alcohol": 12.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -14249,7 +15266,8 @@ var red = [
    "pH": 2.89,
    "sulphates": 0.44,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -14263,7 +15281,8 @@ var red = [
    "pH": 2.89,
    "sulphates": 0.44,
    "alcohol": 12.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -14277,7 +15296,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.61,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -14291,7 +15311,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.53,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -14305,7 +15326,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.53,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -14319,7 +15341,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.54,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -14333,7 +15356,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.55,
    "alcohol": 12.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -14347,7 +15371,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.56,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -14361,7 +15386,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.6,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -14375,7 +15401,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.56,
    "alcohol": 12.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -14389,7 +15416,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.52,
    "alcohol": 11.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -14403,7 +15431,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -14417,7 +15446,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.56,
    "alcohol": 10.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -14431,7 +15461,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.55,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -14445,7 +15476,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.58,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -14459,7 +15491,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.53,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -14473,7 +15506,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.59,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14487,7 +15521,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.47,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.1,
@@ -14501,7 +15536,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.65,
    "alcohol": 10.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -14515,7 +15551,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.59,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -14529,7 +15566,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.56,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -14543,7 +15581,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.77,
    "alcohol": 12.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14557,7 +15596,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.83,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -14571,7 +15611,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.67,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -14585,7 +15626,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.64,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14599,7 +15641,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.83,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.5,
@@ -14613,7 +15656,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.81,
    "alcohol": 10.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -14627,7 +15671,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.62,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -14641,7 +15686,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.58,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -14655,7 +15701,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.62,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -14669,7 +15716,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -14683,7 +15731,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.78,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -14697,7 +15746,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.77,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -14711,7 +15761,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -14725,7 +15776,8 @@ var red = [
    "pH": 3.03,
    "sulphates": 1.34,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -14739,7 +15791,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.55,
    "alcohol": 12.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -14753,7 +15806,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.77,
    "alcohol": 12.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -14767,7 +15821,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.62,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -14781,7 +15836,8 @@ var red = [
    "pH": 3.13,
    "sulphates": 0.62,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14795,7 +15851,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.59,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -14809,7 +15866,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.57,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -14823,7 +15881,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.76,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -14837,7 +15896,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.59,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -14851,7 +15911,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.7,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -14865,7 +15926,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.69,
    "alcohol": 12.5,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -14879,7 +15941,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.64,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -14893,7 +15956,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.63,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -14907,7 +15971,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.57,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -14921,7 +15986,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.6,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -14935,7 +16001,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.72,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -14949,7 +16016,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.83,
    "alcohol": 10.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -14963,7 +16031,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.83,
    "alcohol": 10.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -14977,7 +16046,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.62,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.3,
@@ -14991,7 +16061,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.89,
    "alcohol": 11.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -15005,7 +16076,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.58,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -15019,7 +16091,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -15033,7 +16106,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.58,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -15047,7 +16121,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.58,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -15061,7 +16136,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.86,
    "alcohol": 10.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -15075,7 +16151,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.73,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -15089,7 +16166,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.58,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -15103,7 +16181,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.58,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15117,7 +16196,8 @@ var red = [
    "pH": 3.01,
    "sulphates": 0.51,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.3,
@@ -15131,7 +16211,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.51,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15145,7 +16226,8 @@ var red = [
    "pH": 3.01,
    "sulphates": 0.51,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -15159,7 +16241,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -15173,7 +16256,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.77,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -15187,7 +16271,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -15201,7 +16286,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.49,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -15215,7 +16301,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.66,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15229,7 +16316,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.69,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -15243,7 +16331,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.76,
    "alcohol": 9.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -15257,7 +16346,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.76,
    "alcohol": 9.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -15271,7 +16361,8 @@ var red = [
    "pH": 2.98,
    "sulphates": 0.63,
    "alcohol": 11.8,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15285,7 +16376,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.6,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -15299,7 +16391,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.59,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -15313,7 +16406,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.86,
    "alcohol": 12,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -15327,7 +16421,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.49,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.4,
@@ -15341,7 +16436,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.5,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -15355,7 +16451,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.49,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -15369,7 +16466,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -15383,7 +16481,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.81,
    "alcohol": 12.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -15397,7 +16496,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.52,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -15411,7 +16511,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.78,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -15425,7 +16526,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.63,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -15439,7 +16541,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.54,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -15453,7 +16556,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.63,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -15467,7 +16571,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.66,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -15481,7 +16586,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.6,
    "alcohol": 12.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -15495,7 +16601,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.54,
    "alcohol": 12.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -15509,7 +16616,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.85,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -15523,7 +16631,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.49,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.8,
@@ -15537,7 +16646,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.76,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -15551,7 +16661,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.64,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.4,
@@ -15565,7 +16676,8 @@ var red = [
    "pH": 3.78,
    "sulphates": 0.64,
    "alcohol": 12.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15579,7 +16691,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.71,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.9,
@@ -15593,7 +16706,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -15607,7 +16721,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.66,
    "alcohol": 13.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -15621,7 +16736,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -15635,7 +16751,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -15649,7 +16766,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -15663,7 +16781,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.53,
    "alcohol": 13.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -15677,7 +16796,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.58,
    "alcohol": 12.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -15691,7 +16811,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.72,
    "alcohol": 13.1,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -15705,7 +16826,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.55,
    "alcohol": 12.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -15719,7 +16841,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.48,
    "alcohol": 12.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.7,
@@ -15733,7 +16856,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.65,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -15747,7 +16871,8 @@ var red = [
    "pH": 3.62,
    "sulphates": 0.62,
    "alcohol": 11.5,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -15761,7 +16886,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.59,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.8,
@@ -15775,7 +16901,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.54,
    "alcohol": 13.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -15789,7 +16916,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.6,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -15803,7 +16931,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.68,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -15817,7 +16946,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.69,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -15831,7 +16961,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.63,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -15845,7 +16976,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.44,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -15859,7 +16991,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.88,
    "alcohol": 13.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -15873,7 +17006,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.68,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -15887,7 +17021,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.74,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -15901,7 +17036,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -15915,7 +17051,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.76,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -15929,7 +17066,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.76,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -15943,7 +17081,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.58,
    "alcohol": 9.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -15957,7 +17096,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.64,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -15971,7 +17111,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.65,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -15985,7 +17126,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.85,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -15999,7 +17141,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.65,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -16013,7 +17156,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.82,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -16027,7 +17171,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.62,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -16041,7 +17186,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.81,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -16055,7 +17201,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.87,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -16069,7 +17216,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.49,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -16083,7 +17231,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.66,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -16097,7 +17246,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.52,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -16111,7 +17261,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.76,
    "alcohol": 12.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -16125,7 +17276,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.65,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -16139,7 +17291,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.53,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -16153,7 +17306,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.66,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -16167,7 +17321,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.68,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -16181,7 +17336,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.53,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -16195,7 +17351,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.76,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.1,
@@ -16209,7 +17366,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.87,
    "alcohol": 12.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -16223,7 +17381,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 1.16,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -16237,7 +17396,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.67,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.6,
@@ -16251,7 +17411,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.72,
    "alcohol": 11.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -16265,7 +17426,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.75,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -16279,7 +17441,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.71,
    "alcohol": 11.8,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -16293,7 +17456,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.67,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -16307,7 +17471,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.67,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -16321,7 +17486,8 @@ var red = [
    "pH": 3.01,
    "sulphates": 1.1,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -16335,7 +17501,8 @@ var red = [
    "pH": 2.94,
    "sulphates": 0.98,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -16349,7 +17516,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.88,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -16363,7 +17531,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.56,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -16377,7 +17546,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.62,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -16391,7 +17561,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.67,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -16405,7 +17576,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.68,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -16419,7 +17591,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.74,
    "alcohol": 12.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -16433,7 +17606,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -16447,7 +17621,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -16461,7 +17636,8 @@ var red = [
    "pH": 3.61,
    "sulphates": 0.7,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -16475,7 +17651,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.5,
    "alcohol": 11.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -16489,7 +17666,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.66,
    "alcohol": 12.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -16503,7 +17681,8 @@ var red = [
    "pH": 3.68,
    "sulphates": 0.73,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -16517,7 +17696,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.81,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -16531,7 +17711,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.81,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -16545,7 +17726,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.46,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -16559,7 +17741,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.86,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -16573,7 +17756,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.6,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -16587,7 +17771,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.7,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -16601,7 +17786,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.46,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -16615,7 +17801,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.5,
    "alcohol": 12.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -16629,7 +17816,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.46,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -16643,7 +17831,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.7,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -16657,7 +17846,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.44,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -16671,7 +17861,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.57,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -16685,7 +17876,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.51,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -16699,7 +17891,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.8,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -16713,7 +17906,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.51,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -16727,7 +17921,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.59,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -16741,7 +17936,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.6,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -16755,7 +17951,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -16769,7 +17966,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.54,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -16783,7 +17981,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.79,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -16797,7 +17996,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -16811,7 +18011,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.54,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -16825,7 +18026,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.54,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -16839,7 +18041,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.69,
    "alcohol": 11.7,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -16853,7 +18056,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.55,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -16867,7 +18071,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.85,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -16881,7 +18086,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.85,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -16895,7 +18101,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.85,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -16909,7 +18116,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.94,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -16923,7 +18131,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.85,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -16937,7 +18146,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.87,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -16951,7 +18161,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.62,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -16965,7 +18176,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.62,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -16979,7 +18191,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.62,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.6,
@@ -16993,7 +18206,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.75,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -17007,7 +18221,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.48,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.8,
@@ -17021,7 +18236,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.56,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -17035,7 +18251,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.69,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -17049,7 +18266,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.81,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -17063,7 +18281,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.69,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -17077,7 +18296,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.83,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -17091,7 +18311,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.77,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.9,
@@ -17105,7 +18326,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.77,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -17119,7 +18341,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.46,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.5,
@@ -17133,7 +18356,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.76,
    "alcohol": 12,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 12.6,
@@ -17147,7 +18371,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.82,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -17161,7 +18386,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.51,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -17175,7 +18401,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 0.47,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -17189,7 +18416,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.72,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.1,
@@ -17203,7 +18431,8 @@ var red = [
    "pH": 3.68,
    "sulphates": 0.73,
    "alcohol": 13.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -17217,7 +18446,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.64,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -17231,7 +18461,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.78,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -17245,7 +18476,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.62,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -17259,7 +18491,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.64,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -17273,7 +18506,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.49,
    "alcohol": 9.3,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17287,7 +18521,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.4,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -17301,7 +18536,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.56,
    "alcohol": 11.5,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -17315,7 +18551,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.64,
    "alcohol": 9.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17329,7 +18566,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.4,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -17343,7 +18581,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.46,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -17357,7 +18596,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.56,
    "alcohol": 11.8,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -17371,7 +18611,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.4,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -17385,7 +18626,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.59,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -17399,7 +18641,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.6,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -17413,7 +18656,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -17427,7 +18671,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.54,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -17441,7 +18686,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.68,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -17455,7 +18701,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.48,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -17469,7 +18716,8 @@ var red = [
    "pH": 3.49,
    "sulphates": 0.68,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -17483,7 +18731,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.75,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17497,7 +18746,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.61,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17511,7 +18761,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.61,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -17525,7 +18776,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.59,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17539,7 +18791,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -17553,7 +18806,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.58,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -17567,7 +18821,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.69,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -17581,7 +18836,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.45,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -17595,7 +18851,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.42,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -17609,7 +18866,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.7,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -17623,7 +18881,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.63,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -17637,7 +18896,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.63,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -17651,7 +18911,8 @@ var red = [
    "pH": 3.02,
    "sulphates": 1.15,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -17665,7 +18926,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.55,
    "alcohol": 11.2,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -17679,7 +18941,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -17693,7 +18956,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.46,
    "alcohol": 9.6,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -17707,7 +18971,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.72,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -17721,7 +18986,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -17735,7 +19001,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.4,
@@ -17749,7 +19016,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.87,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -17763,7 +19031,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.55,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.5,
@@ -17777,7 +19046,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.82,
    "alcohol": 14,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -17791,7 +19061,8 @@ var red = [
    "pH": 3.7,
    "sulphates": 0.75,
    "alcohol": 14,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -17805,7 +19076,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.57,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -17819,7 +19091,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.53,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -17833,7 +19106,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.43,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -17847,7 +19121,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.53,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -17861,7 +19136,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.5,
@@ -17875,7 +19151,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.56,
    "alcohol": 12,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -17889,7 +19166,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.6,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -17903,7 +19181,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.54,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.8,
@@ -17917,7 +19196,8 @@ var red = [
    "pH": 3.14,
    "sulphates": 0.57,
    "alcohol": 11.5,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17931,7 +19211,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -17945,7 +19226,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.64,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -17959,7 +19241,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.68,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -17973,7 +19256,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.63,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -17987,7 +19271,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.56,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.3,
@@ -18001,7 +19286,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.57,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -18015,7 +19301,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.54,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -18029,7 +19316,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.37,
    "alcohol": 13,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -18043,7 +19331,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 1.17,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -18057,7 +19346,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 1.17,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18071,7 +19361,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.59,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -18085,7 +19376,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.75,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -18099,7 +19391,8 @@ var red = [
    "pH": 3.62,
    "sulphates": 0.67,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18113,7 +19406,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.49,
    "alcohol": 9.7,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -18127,7 +19421,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.75,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -18141,7 +19436,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.45,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -18155,7 +19451,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.45,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18169,7 +19466,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.61,
    "alcohol": 12.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.7,
@@ -18183,7 +19481,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.56,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18197,7 +19496,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.4,
    "alcohol": 10.9,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -18211,7 +19511,8 @@ var red = [
    "pH": 3.78,
    "sulphates": 0.61,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -18225,7 +19526,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.74,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -18239,7 +19541,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.8,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -18253,7 +19556,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.66,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18267,7 +19571,8 @@ var red = [
    "pH": 3.12,
    "sulphates": 0.44,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18281,7 +19586,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.53,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -18295,7 +19601,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.62,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -18309,7 +19616,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.52,
    "alcohol": 11.1,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -18323,7 +19631,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.62,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -18337,7 +19646,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.61,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18351,7 +19661,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.53,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -18365,7 +19676,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.59,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -18379,7 +19691,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.47,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -18393,7 +19706,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -18407,7 +19721,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.53,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18421,7 +19736,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.4,
@@ -18435,7 +19751,8 @@ var red = [
    "pH": 4.01,
    "sulphates": 0.59,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -18449,7 +19766,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.69,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18463,7 +19781,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.58,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -18477,7 +19796,8 @@ var red = [
    "pH": 2.9,
    "sulphates": 1.33,
    "alcohol": 9.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.7,
@@ -18491,7 +19811,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.66,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5,
@@ -18505,7 +19826,8 @@ var red = [
    "pH": 4.01,
    "sulphates": 0.59,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -18519,7 +19841,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.55,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -18533,7 +19856,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.82,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -18547,7 +19871,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.6,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -18561,7 +19886,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.6,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -18575,7 +19901,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.6,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -18589,7 +19916,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.6,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -18603,7 +19931,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.52,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -18617,7 +19946,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.56,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -18631,7 +19961,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.56,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -18645,7 +19976,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.46,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -18659,7 +19991,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.43,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.1,
@@ -18673,7 +20006,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.51,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18687,7 +20021,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.52,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -18701,7 +20036,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.66,
    "alcohol": 12.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -18715,7 +20051,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.45,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -18729,7 +20066,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.45,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -18743,7 +20081,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.45,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18757,7 +20096,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.54,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18771,7 +20111,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.54,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18785,7 +20126,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.54,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18799,7 +20141,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.51,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -18813,7 +20156,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.54,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.5,
@@ -18827,7 +20171,8 @@ var red = [
    "pH": 3.09,
    "sulphates": 0.53,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -18841,7 +20186,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.53,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -18855,7 +20201,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.56,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18869,7 +20216,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.39,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18883,7 +20231,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.39,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -18897,7 +20246,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.52,
    "alcohol": 10.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9,
@@ -18911,7 +20261,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.57,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18925,7 +20276,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.51,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18939,7 +20291,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.46,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -18953,7 +20306,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.46,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -18967,7 +20321,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.52,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -18981,7 +20336,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.44,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -18995,7 +20351,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.44,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -19009,7 +20366,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.59,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -19023,7 +20381,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -19037,7 +20396,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.65,
    "alcohol": 10.0333333333333,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.2,
@@ -19051,7 +20411,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.56,
    "alcohol": 10.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -19065,7 +20426,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.6,
@@ -19079,7 +20441,8 @@ var red = [
    "pH": 3.07,
    "sulphates": 0.65,
    "alcohol": 10.0333333333333,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19093,7 +20456,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.48,
    "alcohol": 9.8,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -19107,7 +20471,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.53,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -19121,7 +20486,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.62,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -19135,7 +20501,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.5,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -19149,7 +20516,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 1.18,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19163,7 +20531,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.5,
    "alcohol": 9.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -19177,7 +20546,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.37,
    "alcohol": 10.4,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -19191,7 +20561,8 @@ var red = [
    "pH": 3,
    "sulphates": 1.17,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -19205,7 +20576,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 1.03,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -19219,7 +20591,8 @@ var red = [
    "pH": 3,
    "sulphates": 1.17,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -19233,7 +20606,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.45,
    "alcohol": 9.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -19247,7 +20621,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.51,
    "alcohol": 9.8,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -19261,7 +20636,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -19275,7 +20651,8 @@ var red = [
    "pH": 3.11,
    "sulphates": 0.46,
    "alcohol": 10,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.2,
@@ -19289,7 +20666,8 @@ var red = [
    "pH": 3.71,
    "sulphates": 0.62,
    "alcohol": 12.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -19303,7 +20681,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.51,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -19317,7 +20696,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.62,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -19331,7 +20711,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.62,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -19345,7 +20726,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.45,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19359,7 +20741,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.49,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19373,7 +20756,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.49,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -19387,7 +20771,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.5,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19401,7 +20786,8 @@ var red = [
    "pH": 3.19,
    "sulphates": 0.42,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -19415,7 +20801,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.58,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -19429,7 +20816,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.58,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -19443,7 +20831,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.68,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -19457,7 +20846,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.53,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -19471,7 +20861,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.59,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19485,7 +20876,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.58,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -19499,7 +20891,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.48,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19513,7 +20906,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.48,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -19527,7 +20921,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.48,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.6,
@@ -19541,7 +20936,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.65,
    "alcohol": 9.55,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.7,
@@ -19555,7 +20951,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.65,
    "alcohol": 9.55,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -19569,7 +20966,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -19583,7 +20981,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.62,
    "alcohol": 10.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -19597,7 +20996,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.72,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -19611,7 +21011,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.51,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -19625,7 +21026,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.51,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -19639,7 +21041,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.82,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -19653,7 +21056,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 1.1,
    "alcohol": 10,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -19667,7 +21071,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.62,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -19681,7 +21086,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.9,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -19695,7 +21101,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.94,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -19709,7 +21116,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.93,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -19723,7 +21131,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 1.01,
    "alcohol": 12.4,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -19737,7 +21146,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.93,
    "alcohol": 10.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -19751,7 +21161,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.44,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -19765,7 +21176,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.73,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -19779,7 +21191,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.94,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -19793,7 +21206,8 @@ var red = [
    "pH": 3.04,
    "sulphates": 0.9,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -19807,7 +21221,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.78,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -19821,7 +21236,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.84,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -19835,7 +21251,8 @@ var red = [
    "pH": 3.2,
    "sulphates": 0.78,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -19849,7 +21266,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.77,
    "alcohol": 12.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -19863,7 +21281,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.46,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -19877,7 +21296,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.45,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -19891,7 +21311,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.46,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -19905,7 +21326,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.58,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -19919,7 +21341,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.84,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -19933,7 +21356,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.67,
    "alcohol": 11,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -19947,7 +21371,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.7,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.3,
@@ -19961,7 +21386,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.7,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -19975,7 +21401,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.71,
    "alcohol": 12.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -19989,7 +21416,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.58,
    "alcohol": 11.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -20003,7 +21431,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.63,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -20017,7 +21446,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.93,
    "alcohol": 11.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -20031,7 +21461,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.62,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -20045,7 +21476,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.54,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -20059,7 +21491,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.85,
    "alcohol": 11.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -20073,7 +21506,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.74,
    "alcohol": 10.1,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -20087,7 +21521,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.77,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10.2,
@@ -20101,7 +21536,8 @@ var red = [
    "pH": 3.18,
    "sulphates": 0.77,
    "alcohol": 9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -20115,7 +21551,8 @@ var red = [
    "pH": 3.15,
    "sulphates": 0.65,
    "alcohol": 8.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20129,7 +21566,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.54,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -20143,7 +21581,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.47,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -20157,7 +21596,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.68,
    "alcohol": 11.0666666666667,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -20171,7 +21611,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.73,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -20185,7 +21626,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.52,
    "alcohol": 9.56666666666667,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20199,7 +21641,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.75,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20213,7 +21656,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.49,
    "alcohol": 11.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -20227,7 +21671,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.68,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -20241,7 +21686,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.52,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20255,7 +21701,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.75,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20269,7 +21716,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.74,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20283,7 +21731,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.73,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -20297,7 +21746,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.76,
    "alcohol": 11.3,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -20311,7 +21761,8 @@ var red = [
    "pH": 3.23,
    "sulphates": 0.73,
    "alcohol": 11.3,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -20325,7 +21776,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.78,
    "alcohol": 11,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -20339,7 +21791,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.76,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -20353,7 +21806,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.7,
@@ -20367,7 +21821,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.69,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -20381,7 +21836,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.63,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -20395,7 +21851,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.5,
    "alcohol": 10.55,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -20409,7 +21866,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.58,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -20423,7 +21881,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.6,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -20437,7 +21896,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.8,
    "alcohol": 11.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -20451,7 +21911,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.68,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -20465,7 +21926,8 @@ var red = [
    "pH": 3.59,
    "sulphates": 0.61,
    "alcohol": 10,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20479,7 +21941,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.58,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20493,7 +21956,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.53,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20507,7 +21971,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.67,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20521,7 +21986,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.67,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -20535,7 +22001,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.65,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -20549,7 +22016,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.57,
    "alcohol": 11,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -20563,7 +22031,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.65,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -20577,7 +22046,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.55,
    "alcohol": 9.7,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 10,
@@ -20591,7 +22061,8 @@ var red = [
    "pH": 2.88,
    "sulphates": 0.47,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -20605,7 +22076,8 @@ var red = [
    "pH": 3.43,
    "sulphates": 0.52,
    "alcohol": 12.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.6,
@@ -20619,7 +22091,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.79,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -20633,7 +22106,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.54,
    "alcohol": 11,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -20647,7 +22121,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.75,
    "alcohol": 8.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.3,
@@ -20661,7 +22136,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.88,
    "alcohol": 13.5666666666667,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 9.9,
@@ -20675,7 +22151,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.75,
    "alcohol": 8.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.3,
@@ -20689,7 +22166,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.88,
    "alcohol": 13.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -20703,7 +22181,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.52,
    "alcohol": 10.2,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -20717,7 +22196,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.68,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -20731,7 +22211,8 @@ var red = [
    "pH": 3.66,
    "sulphates": 0.62,
    "alcohol": 10.1,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.2,
@@ -20745,7 +22226,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.68,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -20759,7 +22241,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.57,
    "alcohol": 10.3,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.1,
@@ -20773,7 +22256,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.61,
    "alcohol": 10.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20787,7 +22271,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.64,
    "alcohol": 10.9,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -20801,7 +22286,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.55,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -20815,7 +22301,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.6,
    "alcohol": 10.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -20829,7 +22316,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.78,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -20843,7 +22331,8 @@ var red = [
    "pH": 3.72,
    "sulphates": 0.58,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -20857,7 +22346,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.76,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -20871,7 +22361,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.56,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -20885,7 +22376,8 @@ var red = [
    "pH": 3.72,
    "sulphates": 0.58,
    "alcohol": 11.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -20899,7 +22391,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.54,
    "alcohol": 11.95,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -20913,7 +22406,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.59,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -20927,7 +22421,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.7,
    "alcohol": 10,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -20941,7 +22436,8 @@ var red = [
    "pH": 3.35,
    "sulphates": 0.81,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.7,
@@ -20955,7 +22451,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.59,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20969,7 +22466,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.63,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -20983,7 +22481,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.58,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -20997,7 +22496,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.63,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -21011,7 +22511,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.53,
    "alcohol": 9.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -21025,7 +22526,8 @@ var red = [
    "pH": 3.16,
    "sulphates": 0.53,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -21039,7 +22541,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.54,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -21053,7 +22556,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.69,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -21067,7 +22571,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.55,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -21081,7 +22586,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.63,
    "alcohol": 9.95,
-   "quality": 3
+   "quality": 3,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -21095,7 +22601,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.66,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -21109,7 +22616,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.55,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21123,7 +22631,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.72,
    "alcohol": 10.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -21137,7 +22646,8 @@ var red = [
    "pH": 3.28,
    "sulphates": 0.7,
    "alcohol": 11.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -21151,7 +22661,8 @@ var red = [
    "pH": 3.47,
    "sulphates": 0.77,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21165,7 +22676,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.67,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -21179,7 +22691,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.65,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -21193,7 +22706,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.6,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -21207,7 +22721,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.72,
    "alcohol": 9.23333333333333,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -21221,7 +22736,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.72,
    "alcohol": 9.25,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -21235,7 +22751,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.97,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -21249,7 +22766,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.83,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -21263,7 +22781,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.63,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21277,7 +22796,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.58,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -21291,7 +22811,8 @@ var red = [
    "pH": 3.38,
    "sulphates": 0.83,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -21305,7 +22826,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.43,
    "alcohol": 9.05,
-   "quality": 4
+   "quality": 4,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -21319,7 +22841,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.97,
    "alcohol": 10.6,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -21333,7 +22856,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.6,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -21347,7 +22871,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.78,
    "alcohol": 10,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -21361,7 +22886,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.64,
    "alcohol": 9.7,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -21375,7 +22901,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.65,
    "alcohol": 9.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21389,7 +22916,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.66,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.9,
@@ -21403,7 +22931,8 @@ var red = [
    "pH": 3.31,
    "sulphates": 0.67,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21417,7 +22946,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.6,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21431,7 +22961,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.69,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -21445,7 +22976,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.66,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21459,7 +22991,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.68,
    "alcohol": 9.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -21473,7 +23006,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.61,
    "alcohol": 9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21487,7 +23021,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.62,
    "alcohol": 11.7,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -21501,7 +23036,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.59,
    "alcohol": 9.7,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -21515,7 +23051,8 @@ var red = [
    "pH": 3.6,
    "sulphates": 0.68,
    "alcohol": 10.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.4,
@@ -21529,7 +23066,8 @@ var red = [
    "pH": 3.5,
    "sulphates": 0.64,
    "alcohol": 10.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -21543,7 +23081,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.63,
    "alcohol": 12,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21557,7 +23096,8 @@ var red = [
    "pH": 3.46,
    "sulphates": 0.78,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -21571,7 +23111,8 @@ var red = [
    "pH": 3.56,
    "sulphates": 0.63,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -21585,7 +23126,8 @@ var red = [
    "pH": 3.4,
    "sulphates": 0.76,
    "alcohol": 10.9,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -21599,7 +23141,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.56,
    "alcohol": 10.75,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.1,
@@ -21613,7 +23156,8 @@ var red = [
    "pH": 3.25,
    "sulphates": 0.57,
    "alcohol": 10.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8.4,
@@ -21627,7 +23171,8 @@ var red = [
    "pH": 3.17,
    "sulphates": 0.81,
    "alcohol": 11.2,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.5,
@@ -21641,7 +23186,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.64,
    "alcohol": 10.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -21655,7 +23201,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.61,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -21669,7 +23216,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.51,
    "alcohol": 12.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 11.2,
@@ -21683,7 +23231,8 @@ var red = [
    "pH": 3.1,
    "sulphates": 0.58,
    "alcohol": 10.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -21697,7 +23246,8 @@ var red = [
    "pH": 3.24,
    "sulphates": 0.7,
    "alcohol": 11.4,
-   "quality": 8
+   "quality": 8,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21711,7 +23261,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.53,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.1,
@@ -21725,7 +23276,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.54,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -21739,7 +23291,8 @@ var red = [
    "pH": 3.51,
    "sulphates": 0.66,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -21753,7 +23306,8 @@ var red = [
    "pH": 3.41,
    "sulphates": 0.6,
    "alcohol": 9.4,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21767,7 +23321,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -21781,7 +23336,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.68,
    "alcohol": 10.55,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21795,7 +23351,8 @@ var red = [
    "pH": 3.53,
    "sulphates": 0.56,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -21809,7 +23366,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.9,
@@ -21823,7 +23381,8 @@ var red = [
    "pH": 3.22,
    "sulphates": 0.56,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -21837,7 +23396,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -21851,7 +23411,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.8,
@@ -21865,7 +23426,8 @@ var red = [
    "pH": 3.21,
    "sulphates": 0.52,
    "alcohol": 9.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21879,7 +23441,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21893,7 +23456,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21907,7 +23471,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -21921,7 +23486,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.82,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -21935,7 +23501,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.71,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -21949,7 +23516,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 10.1,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7,
@@ -21963,7 +23531,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.59,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -21977,7 +23546,8 @@ var red = [
    "pH": 3.48,
    "sulphates": 0.57,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -21991,7 +23561,8 @@ var red = [
    "pH": 3.37,
    "sulphates": 0.93,
    "alcohol": 12.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.4,
@@ -22005,7 +23576,8 @@ var red = [
    "pH": 3.44,
    "sulphates": 0.65,
    "alcohol": 11.1,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.3,
@@ -22019,7 +23591,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.51,
    "alcohol": 9.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -22033,7 +23606,8 @@ var red = [
    "pH": 3.58,
    "sulphates": 0.67,
    "alcohol": 12.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.6,
@@ -22047,7 +23621,8 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.48,
    "alcohol": 10.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -22061,7 +23636,8 @@ var red = [
    "pH": 3.26,
    "sulphates": 0.64,
    "alcohol": 11.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 8,
@@ -22075,7 +23651,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.78,
    "alcohol": 10.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -22089,7 +23666,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -22103,7 +23681,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.67,
    "alcohol": 11.3,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -22117,7 +23696,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.4,
@@ -22131,7 +23711,8 @@ var red = [
    "pH": 3.36,
    "sulphates": 0.6,
    "alcohol": 11.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -22145,7 +23726,8 @@ var red = [
    "pH": 3.54,
    "sulphates": 0.6,
    "alcohol": 11.3,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.1,
@@ -22159,7 +23741,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.5,
    "alcohol": 11.9,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -22173,7 +23756,8 @@ var red = [
    "pH": 3.33,
    "sulphates": 0.62,
    "alcohol": 9.8,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.7,
@@ -22187,7 +23771,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.8,
    "alcohol": 11.6,
-   "quality": 7
+   "quality": 7,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -22201,7 +23786,8 @@ var red = [
    "pH": 3.3,
    "sulphates": 0.84,
    "alcohol": 11.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.5,
@@ -22215,7 +23801,8 @@ var red = [
    "pH": 3.34,
    "sulphates": 0.85,
    "alcohol": 11.4,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.8,
@@ -22229,7 +23816,8 @@ var red = [
    "pH": 3.55,
    "sulphates": 0.66,
    "alcohol": 10.9,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 7.2,
@@ -22243,7 +23831,8 @@ var red = [
    "pH": 3.27,
    "sulphates": 0.78,
    "alcohol": 12.8,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.6,
@@ -22257,7 +23846,8 @@ var red = [
    "pH": 3.29,
    "sulphates": 0.54,
    "alcohol": 9.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -22271,7 +23861,8 @@ var red = [
    "pH": 3.32,
    "sulphates": 0.82,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.4,
@@ -22285,7 +23876,8 @@ var red = [
    "pH": 3.67,
    "sulphates": 0.56,
    "alcohol": 11.6,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -22299,7 +23891,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.75,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.8,
@@ -22313,7 +23906,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.82,
    "alcohol": 9.5,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.2,
@@ -22327,7 +23921,8 @@ var red = [
    "pH": 3.45,
    "sulphates": 0.58,
    "alcohol": 10.5,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -22341,7 +23936,8 @@ var red = [
    "pH": 3.52,
    "sulphates": 0.76,
    "alcohol": 11.2,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 6.3,
@@ -22355,7 +23951,8 @@ var red = [
    "pH": 3.42,
    "sulphates": 0.75,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  },
  {
    "fixed_acidity": 5.9,
@@ -22369,7 +23966,8 @@ var red = [
    "pH": 3.57,
    "sulphates": 0.71,
    "alcohol": 10.2,
-   "quality": 5
+   "quality": 5,
+   "color": "red"
  },
  {
    "fixed_acidity": 6,
@@ -22383,6 +23981,7 @@ var red = [
    "pH": 3.39,
    "sulphates": 0.66,
    "alcohol": 11,
-   "quality": 6
+   "quality": 6,
+   "color": "red"
  }
 ]

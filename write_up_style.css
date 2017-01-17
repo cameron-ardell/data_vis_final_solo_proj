@@ -79,7 +79,7 @@ body {
 
 #mainContainer {
 	width: 915px;
-	height: 590px;	
+	height: 1000px;	
 	margin: auto;
 }
 
@@ -93,18 +93,18 @@ body {
 
 #headerContainer {
 	width: 913px;
-	float: left;
+	/*float: left;*/
 	text-align: left;
 	margin: 0 0 10px 0;
 	display: inline-block;
 	border-width: 0 1px 1px 1px;
-	border-style: solid;
+	/*border-style: solid;*/
 	border-color: var(--sleekGrey-color);
 }
 
 #aboutContainer {
 	width: 853px;
-	float: left;
+	/*float: left;*/
 	text-align: left;
 	margin: 0;
 	padding: 0 30px 0 30px;
@@ -142,12 +142,23 @@ body {
 svg { border: 1px solid #dedede; }
 
 #svgContainer {
-/*	width: 400px;*/
-	height: 400px;
-	width: 500px;
-	height: 100%;
-	float: center;
-	background-color: var(--olive-color);
+	width: 66%;
+/*	height: 400px;
+	width: 400px;*/
+	height: 35%;
+/*	float: center;*/
+	background-color: var(--bluebell-color);
 	display: block;
+	margin: auto;
 }
 
+.display_SVG{
+    display: block;
+    margin: auto;
+    background-color: var(--bluebell-color);
+}
+
+
+.display {
+	background-color: #E1BF9E;
+}
