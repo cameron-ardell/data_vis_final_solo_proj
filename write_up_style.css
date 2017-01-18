@@ -79,7 +79,7 @@ body {
 
 #mainContainer {
 	width: 915px;
-	height: 1000px;	
+	height: 150px;	
 	margin: auto;
 }
 
@@ -139,14 +139,22 @@ body {
 	margin: 0px;
 }
 
-svg { border: 1px solid #dedede; }
+svg {
+	border: 1px solid #dedede;
+	margin: 0 auto; /* poor attempt at centering */
+
+	height: auto !important; /* overrides inline */
+	width: auto !important; /* overrides inline */
+
+	display: block;
+}
 
 #svgContainer {
 	width: 66%;
 /*	height: 400px;
 	width: 400px;*/
 	height: 35%;
-/*	float: center;*/
+	float: center;
 	background-color: var(--bluebell-color);
 	display: block;
 	margin: auto;
@@ -155,10 +163,46 @@ svg { border: 1px solid #dedede; }
 .display_SVG{
     display: block;
     margin: auto;
+    float: center;
     background-color: var(--bluebell-color);
 }
 
 
 .display {
-	background-color: #E1BF9E;
+	background-color: #9EADE1;
 }
+
+
+
+
+.bar rect {
+  fill: steelblue;
+}
+
+.bar text {
+  fill: #fff;
+  font: 10px sans-serif;
+}
+
+
+
+/*
+rect.bordered {
+	stroke: #E6E6E6;
+	stroke-width:2px;   
+}
+
+text.mono {
+	font-size: 9pt;
+	font-family: Consolas, courier;
+	fill: #aaa;
+}
+
+text.axis-wine_samples {
+	fill: #000;
+}
+
+text.axis-attributes {
+fill: #000;
+}
+*/

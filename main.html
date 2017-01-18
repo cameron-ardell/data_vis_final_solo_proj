@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Wine Project</title>
+	<link rel="stylesheet" type="text/css" href="write_up_style.css">
+	<script type="text/javascript" src="d3/d3.v3.js"></script>
+	<script type="text/javascript" src="d3/d3.queue.js"></script>
+	<script type="text/javascript" src="js/red.js"></script>
+	<script type="text/javascript" src="js/white.js"></script>
+	<script type="text/javascript" src="js/red_and_white.js"></script>
+	<!-- <script type="text/javascript" src="js/scatter_plot.js"></script> -->
+	<!-- <script type="text/javascript" src="js/wine_select.js"></script> -->
+	<script type="text/javascript" src="js/min_max_script.js"></script>
+	<!-- <script type="text/javascript" src="js/x_select.js"></script> -->
+		<script type="text/javascript" src="js/histogram.js"></script>
+</head>
+<body>
+
+
+
+<div id="mainContainer">
+	
+
+	<h1 class="mainHeader">Wine Analysis: Visualized</h1>
+	<p class="subHeader">Sophie Ardell | Bowdoin College | CSCI 3665</p>
+	
+<!-- 	<div id="svgContainer">
+		<svg class="display_SVG" width="100%" height="100%"></svg>
+	</div> -->
+
+<!-- 	<div id="headerContainer">
+		This is where the scatter plot will go.
+	</div> -->
+
+<!-- 	<div id="svgContainer">
+		<svg class="display_SVG" width="100%" height="100%"></svg>
+	</div> -->
+
+	<div id="headerContainer">
+		<p>This chart allows the user to choose any two attributes of the wine datasets to compare. The user can also toggle wine type (both, red, and white). If the user hovers the mouse over any given dot, it shows the actual values for the given attributes of the sample.</p>
+	</div>
+</div>
+
+
+<br/>
+<!-- <script>
+	var ready = function() {
+		getValues();
+		code_ready();
+	}
+
+</script> -->
+
+<script type="text/javascript" src="js/min_max_script.js"></script>
+<script type="text/javascript" src="js/scatter_plot.js"></script>
+<!-- <script type="text/javascript" src="js/wine_select.js"></script> -->
+<!-- <script src="axis_change.html"></script> -->
+<!-- <script type="text/javascript" src="js/x_select.js"></script> -->
+
+
+<center>
+	<div id="addingFirstMenu">
+
+		<!-- code from: http://coursesweb.net/javascript/multiple-select-dropdown-list-javascript_t -->
+		<!-- FOR DROP DOWN MENUS FOR FIRST GRAPH -->
+		<!-- The first select list -->
+		Select Wine Type: <select name="slist1" onchange="SList.getSelect('slist2', this.value);">
+		 <option>- - -</option>
+		 <option value="both">both</option>
+		 <option value="red">red</option>
+		 <option value="white">white</option>
+
+
+		</select>
+		<!-- Tags for the other 2 dropdown list, and for text-content -->
+		<span id="slist2"></span> <span id="slist3"></span> <div id="scontent"></div>
+
+		<script><!--
+		var SList = new Object();             // JS object that stores data for options
+
+		// HERE replace the values with the text you want to be displayed near Select
+		var txtsl2 = 'Select X Axis:';         // text for the seccond dropdown list
+		var txtsl3 = 'Select Y Axis:';         // text for the third dropdown list
+
+		/*
+		 Property with options for the Seccond select list
+		 The key in this object must be the same with the values of the options added in the first select
+		 The values in the array associated to each key represent options of the seccond select
+		*/
+		SList.slist2 = {
+		    "red": ["Fixed Acidity", "Volatile Acidity",
+		               "Citric Acid", "Residual Sugar", "Chlorides",
+		               "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		               "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		    "white": ["Fixed Acidity", "Volatile Acidity",
+		               "Citric Acid", "Residual Sugar", "Chlorides",
+		               "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		               "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		    "both": ["Fixed Acidity", "Volatile Acidity",
+		               "Citric Acid", "Residual Sugar", "Chlorides",
+		               "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		               "Density", "pH", "Sulphates", "Alcohol", "Quality"]
+		};
+
+		/*
+		 Property with options for the Third select list
+		 The key in this object must be the same with the values (options) added in each Array in "slist2" above
+		 The values in the array associated to each key represent options of the third select
+		*/
+		SList.slist3 = {
+		  "Fixed Acidity": ["Fixed Acidity", "Volatile Acidity",
+		               "Citric Acid", "Residual Sugar", "Chlorides",
+		               "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		               "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Volatile Acidity": ["Fixed Acidity", "Volatile Acidity",
+		               "Citric Acid", "Residual Sugar", "Chlorides",
+		               "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		               "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		 "Citric Acid": ["Fixed Acidity", "Volatile Acidity",
+		              "Citric Acid", "Residual Sugar", "Chlorides",
+		              "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		              "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		 "Residual Sugar": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Chlorides": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Free Sulfur Dioxide": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Total Sulfur Dioxide": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Density": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "pH": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Sulphates": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Alcohol": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		  "Quality": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"]
+		};
+
+		/*
+		 Property with content associated to the options of the third select list
+		 The key in this object must be the same with the values (options) added in each Array in "slist3" above
+		 The values of each key represent the content displayed after the user selects an option in 3rd dropdown list
+		*/
+		SList.scontent = {
+		  "Fixed Acidity": "Fixed Acidity",
+		  "Volatile Acidity": "Volatile Acidity",
+		 "Citric Acid": "Citric Acid",
+		 "Residual Sugar": "Residual Sugar",
+		  "Chlorides": "Chlorides",
+		  "Free Sulfur Dioxide": "Free Sulfur Dioxide",
+		  "Total Sulfur Dioxide": "Total Sulfur Dioxide",
+		  "Density": "Density",
+		  "pH": "pH",
+		  "Sulphates": "Sulphates",
+		  "Alcohol": "Alcohol",
+		  "Quality": "Quality"
+		};
+
+		  var newDatasetName = "";
+		  var newYAttr = "";
+		  var newXAttr = "";
+
+		    /* From here no need to modify */
+
+		// function to get the dropdown list, or content
+		SList.getSelect = function(slist, option) {
+		  document.getElementById('scontent').innerHTML = '';           // empty option-content
+
+
+
+		  if(SList[slist][option]) {
+		    // if option from the last Select, add text-content, else, set dropdown list
+		    if(slist == 'scontent'){
+		    	//document.getElementById('scontent').innerHTML = SList[slist][option];
+		    	
+		    	newYAttr = SList[slist][option];
+		    	// console.log(newDatasetName);
+		    	// console.log(newXAttr);
+		    	// console.log(newYAttr);
+
+		    	updateScatter(newDatasetName, newXAttr, newYAttr);
+
+
+		    }
+		    else {
+		    	
+		      var addata = '<option>- - -</option>';
+		      for(var i=0; i<SList[slist][option].length; i++) {
+		        addata += '<option value="'+SList[slist][option][i]+'">'+SList[slist][option][i]+'</option>';
+		      }
+
+
+		      // cases for each dropdown list
+		      switch(slist) {
+		        case 'slist2':
+		        	newDatasetName = option;
+		          document.getElementById('slist2').innerHTML = txtsl2+' <select name="slist2" onchange="SList.getSelect(\'slist3\', this.value);">'+addata+'</select>';
+		          document.getElementById('slist3').innerHTML = '';
+		          break;
+		        case 'slist3':
+		        	newXAttr = option;
+		          document.getElementById('slist3').innerHTML = txtsl3+' <select name="slist3" onchange="SList.getSelect(\'scontent\', this.value);">'+addata+'</select>';
+		          break;
+		      }
+		    }
+		  }
+		  else {
+		    // empty the tags for select lists
+		    if(slist == 'slist2') {
+		      document.getElementById('slist2').innerHTML = '';
+		      document.getElementById('slist3').innerHTML = '';
+		    }
+		    else if(slist == 'slist3') {
+		      document.getElementById('slist3').innerHTML = '';
+		    }
+		  }
+		}
+		--></script>
+	</div>
+</center>
+
+<br/>
+
+<div id="mainContainer">
+	<div id="headerContainer">
+		<p>This chart allows the user to choose an attribute of the wine datasets to evaluate the distribution of. The user can also toggle wine type (both, red, and white).</p>
+	</div>
+</div>
+
+
+	<script type="text/javascript" src="js/histogram.js"></script>
+	<svg width=915px height=500px></svg>
+
+<center>
+		<div id = "addingSecondMenu">
+		Select Wine Type: <select name="slist1_2" onchange="SList_2.getSelect('slist2_2', this.value);">
+				 <option>- - -</option>
+				 <option value="both">both</option>
+				 <option value="red">red</option>
+				 <option value="white">white</option>
+				</select>
+		<!-- Tags for the seccond dropdown list, and for text-content -->
+		<span id="slist2_2"></span> <div id="scontent_2"></div>
+
+		<script><!--
+		var SList_2 = new Object();             // JS object that stores data for options
+
+		// HERE replace the value with the text you want to be displayed near Select
+		var txtsl2_2 = 'Select Attribute:';
+
+		/*
+		 Property with options for the Seccond select list
+		 The key in this object must be the same with the values of the options added in the first select
+		 The values in the array associated to each key represent options of the seccond select
+		*/
+		SList_2.slist2_2 = {
+		 "red": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		 "white": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"],
+		 "both": ["Fixed Acidity", "Volatile Acidity",
+		            "Citric Acid", "Residual Sugar", "Chlorides",
+		            "Free Sulfur Dioxide", "Total Sulfur Dioxide",
+		            "Density", "pH", "Sulphates", "Alcohol", "Quality"]
+		};
+
+		/*
+		 Property with text-content associated with the options of the 2nd select list
+		 The key in this object must be the same with the values (options) added in each Array in "slist2" above
+		 The values of each key represent the content displayed after the user selects an option in 2nd dropdown list
+		*/
+		SList_2.scontent_2 = {
+		 "ajax": 'www.marplo.net/ajax/',
+		 "games": 'www.marplo.net/jocuri/',
+		 "anime": 'www.marplo.net/anime/',
+		 "php-mysql": 'coursesweb.net/php-mysql/',
+		 "javascript": 'coursesweb.net/javascript/',
+		 "flash-as3": 'coursesweb.net/flash/'
+		};
+
+		    /* From here no need to modify */
+
+		// function to get the dropdown list, or content
+		SList_2.getSelect = function(slist_2, option) {
+		  document.getElementById('scontent_2').innerHTML = '';           // empty option-content
+
+		  if(SList_2[slist_2][option]) {
+		    // if option from the last Select, add text-content, else, set dropdown list
+		    if(slist_2 == 'scontent_2') document.getElementById('scontent_2').innerHTML = SList_2[slist_2][option];
+		    else if(slist_2 == 'slist2_2') {
+		      var addata = '<option>- - -</option>';
+		      for(var i=0; i<SList_2[slist_2][option].length; i++) {
+		        addata += '<option value="'+SList_2[slist_2][option][i]+'">'+SList_2[slist_2][option][i]+'</option>';
+		      }
+
+		      document.getElementById('slist2_2').innerHTML = txtsl2_2+' <select name="slist2_2" onchange="SList_2.getSelect(\'scontent_2\', this.value);">'+addata+'</select>';
+		    }
+		  }
+		  else if(slist_2 == 'slist2_2') {
+		    // empty the tag for 2nd select list
+		    document.getElementById('slist2_2').innerHTML = '';
+		  }
+		}
+		--></script>
+	</div>
+</center>
+
+	<br/>
+	<br/>
+<div id="mainContainer">
+	<p class="subHeader">
+		For full brainstorm, <a href="http://www.bowdoin.edu/~sardell/final_proj/brainstorm.html">click here</a>.
+	</p>
+</div>
+
+
+
+
+</body>
+</html>
