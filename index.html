@@ -22,13 +22,34 @@ body {
 
 </style>
 <body>
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="d3/d3.v3.js"></script>
 <script>
+
+//constants that determine what information will be looked at
+var actual_dataset = both;
+var selected_attr = "Fixed Acidity";
 
 var color = "steelblue";
 
+//minimum and maximum value of the specific dataset, so doing domain is easier
+var min_type = "both" + "_min";
+var max_type = "both" + "_max";
+
+//actual minimum and maximum values for given attribute and wine subset
+var min_val = attr_dict[min_type];
+var max_val = attr_dict[max_type];
+
+//holds values of specific attribute
+var values = [];
+
+//puts values into hist_dataset
+for(var i = 0; i < actual_dataset.length; i++){
+  var newVal = actual_dataset[i][selected_attr];
+  values.push(newVal);
+}
+
 // Generate a 1000 data points using normal distribution with mean=20, deviation=5
-var values = d3.range(1000).map(d3.random.normal(20, 5));
+//var values = d3.range(1000).map(d3.random.normal(20, 5));
 
 // A formatter for counts.
 var formatCount = d3.format(",.0f");
@@ -40,7 +61,7 @@ var margin = {top: 20, right: 30, bottom: 30, left: 30},
 var max = d3.max(values);
 var min = d3.min(values);
 var x = d3.scale.linear()
-      .domain([min, max])
+      .domain([min_val, max_val])
       .range([0, width]);
 
 // Generate a histogram using twenty uniformly-spaced bins.
@@ -65,14 +86,15 @@ var xAxis = d3.svg.axis()
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  //.append("g")
+    //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 var bar = svg.selectAll(".bar")
     .data(data)
-  .enter().append("g")
-    .attr("class", "bar")
-    .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+    .enter()
+    //.append("g")
+    .attr("class", "bar");
+    // .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
 
 bar.append("rect")
     .attr("x", 1)
@@ -87,54 +109,54 @@ bar.append("text")
     .attr("text-anchor", "middle")
     .text(function(d) { return formatCount(d.y); });
 
-svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", "translate(0," + height + ")")
-    .call(xAxis);
+// svg.append("g")
+//     .attr("class", "x axis")
+//     .attr("transform", "translate(0," + height + ")")
+//     .call(xAxis);
 
 /*
 * Adding refresh method to reload new data
 */
-function refresh(values){
-  // var values = d3.range(1000).map(d3.random.normal(20, 5));
-  var data = d3.layout.histogram()
-    .bins(x.ticks(20))
-    (values);
+// function refresh(values){
+//   // var values = d3.range(1000).map(d3.random.normal(20, 5));
+//   var data = d3.layout.histogram()
+//     .bins(x.ticks(20))
+//     (values);
 
-  // Reset y domain using new data
-  var yMax = d3.max(data, function(d){return d.length});
-  var yMin = d3.min(data, function(d){return d.length});
-  y.domain([0, yMax]);
-  var colorScale = d3.scale.linear()
-              .domain([yMin, yMax])
-              .range([d3.rgb(color).brighter(), d3.rgb(color).darker()]);
+//   // Reset y domain using new data
+//   var yMax = d3.max(data, function(d){return d.length});
+//   var yMin = d3.min(data, function(d){return d.length});
+//   y.domain([0, yMax]);
+//   var colorScale = d3.scale.linear()
+//               .domain([yMin, yMax])
+//               .range([d3.rgb(color).brighter(), d3.rgb(color).darker()]);
 
-  var bar = svg.selectAll(".bar").data(data);
+//   var bar = svg.selectAll(".bar").data(data);
 
-  // Remove object with data
-  bar.exit().remove();
+//   // Remove object with data
+//   bar.exit().remove();
 
-  bar.transition()
-    .duration(1000)
-    .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+//   bar.transition()
+//     .duration(1000)
+//     .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
 
-  bar.select("rect")
-      .transition()
-      .duration(1000)
-      .attr("height", function(d) { return height - y(d.y); })
-      .attr("fill", function(d) { return colorScale(d.y) });
+//   bar.select("rect")
+//       .transition()
+//       .duration(1000)
+//       .attr("height", function(d) { return height - y(d.y); })
+//       .attr("fill", function(d) { return colorScale(d.y) });
 
-  bar.select("text")
-      .transition()
-      .duration(1000)
-      .text(function(d) { return formatCount(d.y); });
+//   bar.select("text")
+//       .transition()
+//       .duration(1000)
+//       .text(function(d) { return formatCount(d.y); });
 
-}
+// }
 
-// Calling refresh repeatedly.
-setInterval(function() {
-  var values = d3.range(1000).map(d3.random.normal(20, 5));
-  refresh(values);
-}, 2000);
+// // Calling refresh repeatedly.
+// setInterval(function() {
+//   var values = d3.range(1000).map(d3.random.normal(20, 5));
+//   refresh(values);
+// }, 2000);
 
 </script>
